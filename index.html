@@ -56,3 +56,16 @@ seo:
 </section>
 
 
+<section class="padded">
+
+    <h1> Home Page </h1>
+
+    {% for recipe in site.recipes %}
+
+    <a href="{{recipe.url}}"> {{recipe.title}} </a>
+
+    {% endfor %}
+
+</section>
+
+

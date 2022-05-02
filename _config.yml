@@ -4,6 +4,8 @@ collections:
     permalink: /posts/:year/:slug
   archives: 
     output: true
+  recipes:
+    output: true
     
     
 _options:
