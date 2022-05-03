@@ -4,7 +4,7 @@
 
         {% if page.intro-header == true %}
 
-        <div class="col-9 padded-05 center margin-b-1">
+        <div class="col-12 padded-05 center margin-b-1">
 
             <h2> {{ page.title }}</h2>
             {{ page.description_html }}
@@ -15,7 +15,7 @@
 
             {% for post in site.categories[page.category] limit:12 %}
 
-                {% if page.post-style == normal %}
+                {% if page.post-style == "normal" %}
 
                 {% include post-loop-item-square.html %}
 
