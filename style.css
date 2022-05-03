@@ -1,6 +1,15 @@
 /* ----------- Color Variables --------- */
 /* Looking for the color variables? They have been moved to the inline-styles file in the _includes folder, and pull variables from the site-settings folder in the _data folder.  */
 
+/* Notes 
+Fonts: 
+        - 'jost': 100;200;300;400;500;600;700;800;900 ( sans-serif ) (only normal style)
+        - 'mrs-eaves', serif : 400, 700 (normal & italic)
+        - 'mrs-eaves-roman-petite-caps', sans-serif: 400 (normal)
+        - 'mrs-eaves-roman-lining', sans-serif: 400 (normal)
+        - 'mrs-eaves-roman-small-caps', sans-serif: 400 (normal)
+
+*/
 /* ----------- CSS RESET --------- */
 
 * {
@@ -164,13 +173,18 @@ a.bg-image { display: block;}
 .uppercase    { text-transform: uppercase; }
 
 body {
-  font-family: 'Mulish', serif;  /* Add your font here */ 
+  font-family: 'Jost', sans-serif;  /* Add your font here */ 
   color: var(--dark-text);
 }
 
 h2, h3, h4, h5, h6 {
   line-height: 1.1;
   margin-bottom: 1.2rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-family: 'mrs-eaves', serif;
+   font-weight: 700;
 }
 
 h2 { font-size: 2rem; }
