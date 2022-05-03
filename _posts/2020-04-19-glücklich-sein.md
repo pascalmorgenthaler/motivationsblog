@@ -1,21 +1,20 @@
 ---
 layout: post-with-sidebar
-title: My first post
+title: Glücklich sein mal in Ruhe betrachtet
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum,
-  ab, eum dolore perspiciatis tenetur alias aspernatur
-author: Tina May
-featured: true
+  Wie war das Leben vor dem Lockdown? Viele Menschen, egal welchen Alters, waren "voll im Stress" wie es so schön heisst...
+author: Alfred Schuler
+featured: false
 categories:
   - travel
   - life
 featured_image: https://source.unsplash.com/random?sig=7
 seo:
-  title:
-  description:
+  title: Glücklich sein mal in Ruhe betrachtet
+  description: Was bedeutet Glück? Was heisst es glücklich zu sein? Bin ich vollkommen glücklich? Alfred Schuler erörtert dieses Thema in seinem Motivationsblog.
   social_image:
   twitter_card:
-  keywords:
+  keywords: selbstliebe, glück, lifecoach, motivation
   hide-from-google: false
 _comments:
   title: Max 70 characters
