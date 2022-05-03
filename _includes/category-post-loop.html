@@ -13,19 +13,19 @@
 
         {% endif %}
 
-            {% for post in site.categories[page.category] limit:12 %}
+        {% for post in site.categories[page.category] limit:12 %}
 
                 {% if page.post-style == "normal" %}
 
-                {% include post-loop-item-square.html %}
+                    {% include post-loop-item-square.html %}
 
                 {% else %}
 
-                {% include post-loop-item-small.html %}
+                    {% include post-loop-item-small.html %}
 
                 {% endif %}
 
-            {% endfor %}
+        {% endfor %}
 
     </div>
 
