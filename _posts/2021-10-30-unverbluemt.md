@@ -4,7 +4,7 @@ title: Unverblümt
 description: >-
   Heute ist mir spontan das Wort "unverblümt" in den Sinn gekommen. Einfach so. Dabei fällt mir auf, dass das Wörtlein "unverblümt" irgendwie auch an "Blümchen" erinnern soll.
 author: Alfred Schuler
-featured: false
+featured: true
 categories:
   - travel
   - life

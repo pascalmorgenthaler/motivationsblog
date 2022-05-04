@@ -1,20 +1,20 @@
 ---
 layout: post-with-sidebar
-title: Nachrichten
+title: Dunkle Wolken
 description: >-
-  Nachrichten. Was soll dieses Thema wirst du dich vielleicht fragen? Gibt es denn nicht schon genug davon? Ja natürlich gibt es eher schon zu viel davon!
+  "Wie sieht's denn aus heute?" Nein, ich meine nicht das, dass man aus dem Fenster schaut, um zu sehen, wie das Wetter ist. Dafür hat man heute doch eine mehrfarbige App mit allen möglichen nützlichen und auch weniger praktischen Zusatzinfos auf seinem Handy.
 author: Alfred Schuler
-featured: true
+featured: false
 categories:
   - travel
   - life
-featured_image: /images/blog-post_images/blog-2021-09-19.jpg
+featured_image: /images/blog-post_images/blog-2020-08-19.jpg
 seo:
-  title: Nachrichten
-  description: Nachrichten. Was soll dieses Thema wirst du dich vielleicht fragen? Gibt es denn nicht schon genug davon? Ja natürlich gibt es eher schon zu viel davon!
+  title:
+  description: "Wie sieht's denn aus heute?" Nein, ich meine nicht das, dass man aus dem Fenster schaut, um zu sehen, wie das Wetter ist. Dafür hat man heute doch eine mehrfarbige App mit allen möglichen nützlichen und auch weniger praktischen Zusatzinfos auf seinem Handy.
   social_image:
   twitter_card:
-  keywords: selbstliebe, glück, lifecoach, motivation, eigenverantwortung, philosophie, lachen, lachcoach
+  keywords: selbstliebe, glück, lifecoach, motivation, eigenverantwortung, philosophie
   hide-from-google: false
 _comments:
   title: Max 70 characters
