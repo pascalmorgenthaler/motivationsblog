@@ -216,6 +216,7 @@ p:last-child {
 .text-light     { color: var(--light-text);}
 .subtle         { opacity: 0.8;     }
 .subtitle       { font-size: 0.8rem; }
+.text-white     { color: #ffffff;}
 
 
 /* ------------ Buttons & Links ------------ */
