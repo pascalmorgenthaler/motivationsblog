@@ -26,6 +26,11 @@ img { max-width: 100%; height: auto; }
 
 section { position: relative; }
 
+/* ---------- Border Utility Classes  ------------------ */ 
+
+.border-right { border-right: 1px solid #ffffff; }
+.border-left { border-left: 1px solid #ffffff; }
+.border-top { border-top: 1px solid #ffffff; }
 
 /* ---------- Negative Space Utility Classes  ------------------ */ 
 
@@ -219,6 +224,8 @@ p:last-child {
 .text-white     { color: #ffffff;}
 
 
+
+
 /* ------------ Buttons & Links ------------ */
 a {
     color: inherit;
@@ -252,6 +259,11 @@ p a:hover {
 .subtle-button {
   text-decoration: none;
   border-bottom: 1px solid;
+}
+
+.fa-brands {
+  font-size: 2rem;
+  padding: 0 0.5rem 0 0.5rem;
 }
 
 /* suggested additional styles 
