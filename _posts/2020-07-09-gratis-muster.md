@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-07-09.jpg
 seo:
   title: Gratis-Muster
   description: Überall werden in deinem Leben Gratis-Muster verteilt. Damit ist nicht das obligate "Wurschträdli" beim Metzger gemeint, wo du nach dem Einkauf deiner Eltern mit einem Stück Fleisch für deine Geduld als 3-Käse-hoch, eingepfercht im Kindersitz des Einkaufswagens, belohnt wurdest.  

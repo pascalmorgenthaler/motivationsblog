@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2021-06-29.jpg
 seo:
   title: Furchtlos
   description: Abhängig davon, wozu unsere "Tschütteler" noch an dieser EM oder später fähig sein werden, und mit Verlaub, den Begriff "Tschütteler" meine ich hier als Kompliment auch aus der Tradition unserer Schwyzertüütschen-Sprachkultur heraus! Dieser furchtlose Auftritt wird  sich im Palmarès der Nationalmannschaft auf seinem richtigen Platz einfinden, ganz klar, so furchtlos und abschliessend, wie der Schlusspfiff beim Spielende.

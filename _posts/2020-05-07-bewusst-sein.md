@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-05-07.jpg
 seo:
   title: Bewusst-Sein
   description: Wann bin ich mir bewusst geworden, dass ich bewusst bin, dass ich im SEIN bin?

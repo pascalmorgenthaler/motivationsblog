@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-06-26.jpg
 seo:
   title: Hey, wie gaht's?
   description: Ja, wie fühlst du dich denn gerade? Heute schon per Ellenbogen-Berührung jemanden "innig" begrüsst? Also, wenn mir jemand seinen Ellenbogen zur Begrüssung anbietet, dann erhebe ich lieber noch meine Hand zum Winken. So geht mir das.  

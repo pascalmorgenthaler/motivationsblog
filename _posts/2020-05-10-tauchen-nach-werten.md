@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-05-10.jpg
 seo:
   title: Tauchen nach Werten
   description: Was ist in unserem persönlichen Leben von Wert? Ist es stets das Offensichtliche? Wie sieht es aber mit Werten aus, die wir für so selbstverständlich halten, dass es scheinbar nicht Wert ist, darüber nachzudenken? 

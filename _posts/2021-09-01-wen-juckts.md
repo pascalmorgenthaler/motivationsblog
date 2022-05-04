@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2021-09-01.jpg
 seo:
   title: Wen juckt's?
   description: Kennst du den obgenannten Ausdruck, «Wen juckt’s?» Dieser Ausdruck ist eine umgangssprachliche Metapher dafür, dass etwas was man macht oder allenfalls die eigene Person, nicht von Interesse ist für jemand anderes, eine Gruppe von Menschen oder schlicht der gesamten Gesellschaft.

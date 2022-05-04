@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2022-01-01.jpg
 seo:
   title: Capodanno
   description: In Italien wird Neujahr liebevoll "Capodanno" genannt. Capo heisst so viel wie "Chef" und danno "des Jahres." Neujahr gilt nun also in südlichen Landen als der Chef des Jahres. Nun denn. In unseren Breitengraden scheint der 1. Januar häufig einfach der auf den Sylvester folgende Tag zu sein. Nicht mehr, aber auch nicht weniger.

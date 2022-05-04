@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-04-20.jpg
 seo:
   title: Wir tragen schon lange Masken
   description: Lebst du dein volles Potenzial und stehst du dazu wer DU bist?

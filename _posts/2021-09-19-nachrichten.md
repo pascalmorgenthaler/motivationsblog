@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2021-09-19.jpg
 seo:
   title: Nachrichten
   description: Nachrichten. Was soll dieses Thema wirst du dich vielleicht fragen? Gibt es denn nicht schon genug davon? Ja natürlich gibt es eher schon zu viel davon!

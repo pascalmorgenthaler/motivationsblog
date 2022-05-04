@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-12-26.jpg
 seo:
   title: Stille Nacht
   description: Vielleicht hast du dir im Vorfeld von Weihnachten Gedanken gemacht, ja vielleicht sogar schon begonnen dich zu Sorgen, weil es diesmal anders sein wird? 

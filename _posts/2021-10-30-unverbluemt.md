@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2021-10-30.jpg
 seo:
   title: Unverblümt
   description: Heute ist mir spontan das Wort "unverblümt" in den Sinn gekommen. Einfach so. Dabei fällt mir auf, dass das Wörtlein "unverblümt" irgendwie auch an "Blümchen" erinnern soll.

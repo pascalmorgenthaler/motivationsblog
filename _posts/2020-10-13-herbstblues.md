@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-10-13.jpg
 seo:
   title: Herbstblues
   description: So, der Herbstblues also ist das Thema. Grau in Grau oder was muss ich mir darunter vorstellen? Ich bin mir da nicht so sicher, wo genau der Blues drin stecken sollte. Schliesslich ist der Herbst an Farbe kaum zu überbieten.

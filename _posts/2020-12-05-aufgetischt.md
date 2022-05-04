@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-12-05.jpg
 seo:
   title: Aufgetischt
   description: Also gibt es doch einen Nikolausbesuch? Gute Frage. Vielleicht auch nur bis zum Briefkasten, wo er das Chlaussäckli hineinlegt, um sich anschliessend mit seinem Schmutzli und den Engeln aus dem "Staub zu machen?" Hm, ... eigenartig sowas. Aber nicht ungewöhnlich für das Jahr 2020, im Zeichen von Corona.

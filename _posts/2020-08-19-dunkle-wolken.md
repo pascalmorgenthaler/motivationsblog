@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-08-19.jpg
 seo:
   title: Dunkle Wolken
   description: "Wie sieht's denn aus heute?" Nein, ich meine nicht das, dass man aus dem Fenster schaut, um zu sehen, wie das Wetter ist. Dafür hat man heute doch eine mehrfarbige App mit allen möglichen nützlichen und auch weniger praktischen Zusatzinfos auf seinem Handy.

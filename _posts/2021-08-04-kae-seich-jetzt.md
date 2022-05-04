@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2021-08-04.jpg
 seo:
   title: "Kä Seich jetzt!"
   description: Was heisst "kä Seich jetzt!" Mach keinen Quatsch, trifft es ziemlich gut und damit wären unsere hoch- tief- und Plattdeutschsprechenden Nachbarn wieder mit einigen Worten der deutschschweizerischen Sprache vertraut. Wann sagst du zu dir oder jemand anderem "So, kä Seich jetzt!" Dem wollen wir jetzt vertieft nachgehen, ehrlich - ohne Quatsch! Komm mit und lies weiter.

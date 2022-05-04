@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-08-17.jpg
 seo:
   title: Ansichtssache
   description: Alles ist Ansichtssache, heisst es doch so schön. Jedenfalls das Meiste davon. Schön, wenn Ansichtssache auch Ansichtssache bleibt. Wenn du das Glück hattest in einem Land aufzuwachsen, wo die "Ansicht deine Sache ist", dann hast du per se schon mal Glück gehabt.

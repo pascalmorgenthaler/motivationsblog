@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-07-18.jpg
 seo:
   title: "Chill mal - Gönn dir was!"
   description: Hattest du gerade ein gutes Gefühl, wenn du "Chill mal - Gönn dir was!" gelesen hast? Ich bin mir sicher,  4 von 5 Menschen, haben ein Problem damit, oder wie es heute manchmal so schön heisst, einen Challenge, eine Herausforderung.  

@@ -8,7 +8,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: /images/blog-post_images/blog-2020-11-17.jpg
 seo:
   title: Gesucht - Humor!
   description: Ein herzhaftes Lachen, ja selbst ein Lächeln, lässt dich deine Anspannung des Alltags nicht vergessen, viel besser. Es macht aus der Anspannung eine Entspannung. Humor hat eine Ventilfunktion für deinen Körper, deinen Geist und auch deine Seele.
