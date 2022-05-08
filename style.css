@@ -52,6 +52,7 @@ section { position: relative; }
 .tall-50  { min-height: 50vh; }
 
 /* Padding Utility Classes */ 
+
 .padded-sm { padding: 2.5%; }
 .padded    { padding: 5%;   }
 .padded-lg { padding: 10%;  }
@@ -59,6 +60,7 @@ section { position: relative; }
 .padded-05 { padding: 0.5rem; }
 .padded-1  { padding: 1rem; }
 .padded-2  { padding: 2rem; }
+.padded-1-5 {padding: 1.5rem;}
 
 .padded-t  { padding-top: 5%; }
 .padded-b  { padding-bottom: 5%; }
@@ -67,6 +69,7 @@ section { position: relative; }
 
 .padded-tb  { padding-top: 5%; padding-bottom: 5%; }
 .padded-lr  { padding-left: 5%; padding-right: 5%; }
+.padded-lr-max { padding-left: 15%; padding-right: 15%; }
 
 .padded-t-1 { padding-top: 1rem; }
 .padded-b-1 { padding-bottom: 1rem; }
@@ -115,6 +118,8 @@ section { position: relative; }
 .margin-tb { margin-top: 5%; margin-bottom: 5%; }
 .margin-lr { margin-left: 5%; margin-right: 5%; }
 
+.margin-b-minus-1 { margin-bottom: -0.7rem; }
+
 /* ------------ Backgrounds & Background Images  ----------------------- */
 
 .bg-dark     { background-color: var(--dark);}
@@ -137,11 +142,11 @@ section { position: relative; }
   z-index: 1;
   content: ""; 
   position: absolute;
-  top: 17vh;
-  left: 28vw;
-  bottom: 17vh;
-  right: 28vw; 
-  background-color: rgba(0,0,0,0.6);
+  top: 14vh;
+  left: 29.2vw;
+  bottom: 14vh;
+  right: 29.2vw; 
+  background-color: rgba(0,0,0,0.4);
 }
 
 
@@ -165,9 +170,9 @@ section { position: relative; }
     border: 2px solid white;
     padding: 2rem;
     position: absolute;
-    top: 20vh;
+    top: 15vh;
     left: 30vw;
-    bottom: 20vh;
+    bottom: 15vh;
     right: 30vw; 
   }
 
@@ -206,8 +211,8 @@ h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-   font-family: 'mrs-eaves', serif;
-   font-weight: 700;
+   font-family: 'Bookmania', serif;
+   font-weight: 400;
 }
 
 h2 { font-size: 2rem; }
@@ -237,11 +242,19 @@ p:last-child {
 .emphasis       { font-size: 1.2rem; }
 .text-featured  { color: var(--featured-text);}
 .text-light     { color: var(--light-text);}
-.subtle         { opacity: 0.8;     }
+.subtle         { 
+    opacity: 0.8;
+    font-weight: 200;
+    font-family: 'Jost', sans-serif;
+    }
 .subtitle       { font-size: 0.8rem; }
 .text-white     { color: #ffffff;}
 
-
+.welcome {
+  text-transform: uppercase;
+  letter-spacing: 0.4rem;
+  font-weight: 300;
+}
 
 
 
@@ -304,8 +317,11 @@ nav a:hover {
 }
 
 .logo {
+  font-family: 'bookmania', serif;
   text-decoration: none;
-  font-size: 3rem;
+  font-size: 2rem;
+  padding: 1rem;
+  letter-spacing: 0.1rem;
 } 
 
 .logo-blog {
