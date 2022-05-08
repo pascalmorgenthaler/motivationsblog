@@ -11,6 +11,7 @@ seo:
 category: deserts
 ---
 
+
 <!------------------------ Image Banner  ------------------------>
 <section class="bg-image bg-header padded grid tall-70">
 
@@ -21,6 +22,23 @@ category: deserts
                 <p class="subtle padded-lr-max"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto neque ex exercitationem quia dolore amet vitae quidem nesciunt illum vel sed, et delectus esse officiis fugit tempore quis quisquam iure! </p>
             </div>
          </div>
+    </div>
+
+</section>
+
+
+<!--------------------  Small About Section ------------------------>
+<section class="padded grid-spaceAround tall-60 bg-dark text-light">
+
+    <div class="col-5-middle">
+        <h3> Hallo, ich bin Alfred! <br> Schön das du da bist. </h3>
+        <p> Ich bin LifeCoach, Teacher, Aromatologe, bin Intuitiv, und seit 2019 nun auch beruflich selbständig. Gemeinsam mit meiner Frau Astrid. Und ich schreibe Blogs. Was mich dazu motiviert? Mein ganzes Leben. </p>
+        <p> Mit 23 hatte ich bereits meine 1. Kaderstelle, eigentlich schon mit 21. Von da an ging es steil bergauf. Bei Versicherungen und Banken, Kader, Top-Kader, Geschäftsleitung, ohne Matura oder  Studium. </p>
+        <p> Der Kosmos ist meine Universität. Mein Leben ist mein Studium. Menschen, Pflanzen, Tiere sind meine Muse. Meine Familie und die Schöpfung ist mein Rückhalt, meine Inspiration und meine Motivation. </p>         
+    </div>
+
+    <div class="col-4-middle">
+        <img src="/images/about-alfred-2.jpg" class="rounded">
     </div>
 
 </section>
@@ -60,18 +78,17 @@ category: deserts
 
 </section>
 
+<!--------------------  Podcast Section ------------------------>
+<section class="padded grid-spaceAround tall-60 bg-dark text-light">
 
-<section class="padded">
+    <div class="col-4-middle">
+        <img src="/images/about-alfred.jpg" class="rounded">
+    </div>
 
-    <h1> Home Page </h1>
-
-    {% assign relevant-recipes = site.recipes | where_exp:"recipe", "recipe.categories contains page.category" %}
-
-    {% for recipe in relevant-recipes %}
-
-    <a href="{{recipe.url}}"> {{recipe.title}} </a>
-
-    {% endfor %}
+    <div class="col-5-middle">
+        <h3> Motivation ohne Aktion bringt nichts! </h3>
+        <p> Entdecke meinen Motivaction Podcast und erfreue dich an meinen Lektionen, Anekdoten, Impulsen und vielem mehr. Gehe mit ihm auf diesem Weg und befasse dich mit deinen eigenen Werten, deiner Motivation und deinen Zielen. Ich freue mich sehr, dass du es auf meine Webseite geschafft hast und wünsche dir viel Spass und Erfolg beim Hören meines Podcasts. </p>         
+    </div>
 
 </section>
 

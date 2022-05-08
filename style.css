@@ -138,6 +138,10 @@ section { position: relative; }
 
 .bg-header { background-image: url('/images/index-header.jpg') }
 
+.rounded { 
+    border-radius: 50rem 50rem 0 0;
+}
+
 .bg-overlay::after {
   z-index: 1;
   content: ""; 
@@ -224,9 +228,9 @@ h6 { font-size: 1.2rem; }
 p, li {
   line-height: 1.4; 
   margin-bottom: 1rem;
-  font-family: 'Martel', serif; 
+  font-family: 'Jost', sans-serif; 
   font-weight: 200;
-  font-size: 1rem;
+  font-size: 1.1em;
 }
 
 h2:last-child, 
