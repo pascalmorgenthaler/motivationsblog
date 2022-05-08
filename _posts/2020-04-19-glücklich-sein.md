@@ -11,7 +11,7 @@ categories:
 featured_image: /images/blog-post_images/blog-2020-04-19.jpg
 seo:
   title: Glücklich sein mal in Ruhe betrachtet
-  description: Was bedeutet Glück? Was heisst es glücklich zu sein? Bin ich vollkommen glücklich? Alfred Schuler erörtert dieses Thema in seinem Motivationsblog.
+  description: Was bedeutet Glück? Was heisst es glücklich zu sein?
   social_image:
   twitter_card:
   keywords: selbstliebe, glück, lifecoach, motivation
