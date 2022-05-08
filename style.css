@@ -158,19 +158,17 @@ section { position: relative; }
 
 .bg-overlay-featured::after { 
   background-color: var(--featured);
-  opacity: 0.8;
+  opacity: 0.5;
 } 
 
 .index-banner { 
     border: 2px solid white;
     padding: 2rem;
     position: absolute;
-    /*
     top: 20vh;
     left: 30vw;
     bottom: 20vh;
     right: 30vw; 
-    */
   }
 
 /* Aspect Ratios with percentage unit are only effective if the element (the <div>) is inside a parent container or column, it can't be applied to the column itself. */
