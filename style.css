@@ -137,10 +137,10 @@ section { position: relative; }
   z-index: 1;
   content: ""; 
   position: absolute;
-  top: 20%;
-  left: 28%;
-	bottom: 20%;
-	right: 28%;
+  top: 17vh;
+  left: 28vw;
+  bottom: 17vh;
+  right: 28vw; 
   background-color: rgba(0,0,0,0.6);
 }
 
@@ -158,8 +158,20 @@ section { position: relative; }
 
 .bg-overlay-featured::after { 
   background-color: var(--featured);
-  opacity: 0.5;
+  opacity: 0.8;
 } 
+
+.index-banner { 
+    border: 2px solid white;
+    padding: 2rem;
+    position: absolute;
+    /*
+    top: 20vh;
+    left: 30vw;
+    bottom: 20vh;
+    right: 30vw; 
+    */
+  }
 
 /* Aspect Ratios with percentage unit are only effective if the element (the <div>) is inside a parent container or column, it can't be applied to the column itself. */
 
