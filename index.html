@@ -28,7 +28,7 @@ category: deserts
 
 
 <!--------------------  Small About Section ------------------------>
-<section class="padded grid-spaceAround tall-60 bg-dark text-light">
+<section class="padded grid-spaceAround tall-60 bg-v-light text-light">
 
     <div class="col-5-middle">
         <h3> Hallo, ich bin Alfred! <br> Schön das du da bist. </h3>
@@ -61,13 +61,12 @@ category: deserts
                 <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
                 <div class="padded-t-1">
                     
-                    {% for item in post.categories %}
-                        <span class="tag"> {{item}} </span>
-                    {% endfor %}
+                    <span class="post-info">by {{post.author}} // </span> 
+                    <span class="post-info"> {{post.date | date: "%m.%d.%Y" }} </span>
 
                     <h2 class="margin-t-1"> {{ post.title }} </h2>
                     <p> {{ post.description }} </p>
-                    <a href="{{ post.url }}" class="subtle-button"> Read More </a>
+                    <a href="{{ post.url }}" class="subtle-button"> Weiterlesen </a>
 
                 </div>
             </div>
@@ -79,7 +78,7 @@ category: deserts
 </section>
 
 <!--------------------  Podcast Section ------------------------>
-<section class="padded grid-spaceAround tall-60 bg-dark text-light">
+<section class="padded grid-spaceAround tall-60 bg-v-light text-light">
 
     <div class="col-4-middle">
         <img src="/images/about-alfred.jpg" class="rounded">
