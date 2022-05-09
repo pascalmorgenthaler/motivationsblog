@@ -498,6 +498,10 @@ footer nav a {
   color: var(--medium-text);
 }
 
+#text-white {
+  color: rgb(210,210,210);
+}
+
 /* Individual Blog Post Pages  */
 
 .blog-content h1 {
