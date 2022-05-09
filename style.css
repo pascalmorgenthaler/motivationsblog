@@ -353,6 +353,23 @@ nav a:hover {
   letter-spacing: 0.1rem;
 }
 
+/* Very specific Styles */
+
+.relative { position: relative; }
+
+.index-about {
+  position: absolute;
+  top: 4rem;
+  bottom: 16%;
+  right: 43%;
+  left: 14%;
+  max-width: 26rem;
+}
+
+.padding-l-60 { 
+  padding-left: 53%;
+  padding-right: 8%;    
+ }
 
 /* Dropdown styles */
 
