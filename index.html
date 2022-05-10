@@ -13,21 +13,37 @@ category: deserts
 
 
 <!------------------------ Image Banner  ------------------------>
-<section class="bg-image bg-header padded grid tall-70">
+<section class="bg-image bg-header padded grid tall-70 bg-overlay">
 
-    <div class="bg-overlay grid col-12-middle">
-        <div class="index-banner grid col-12-middle">
-            <div class="col-12-middle center text-light">
-                <h2 class="welcome"> Welcome </h2>
-                <p class="subtle padded-lr-max"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto neque ex exercitationem quia dolore amet vitae quidem nesciunt illum vel sed, et delectus esse officiis fugit tempore quis quisquam iure! </p>
-            </div>
-         </div>
+    <div class="col-12-middle center text-white">
+         <h1 class="big-heading"> Motivationsblog </h1>
+         <p class="subtle"> Ich nehme dich mit auf eine Reise. </p>
     </div>
+
 
 </section>
 
-
 <!--------------------  Small About Section ------------------------>
+<section class="tall-60 bg-v-light">
+    <section class="bg-v-light grid-spaceAround padded capped-width">
+        <div class="col-4-middle">
+            <img src="/images/about-alfred-2.jpg" class="rounded">
+        </div>
+        <div class="col-5-middle">
+                <h3> Hallo, ich bin Alfred! <br> Schön das du da bist. </h3>
+                <p> Ich bin LifeCoach, Teacher, Aromatologe, bin Intuitiv, und seit 2019 nun auch beruflich selbständig. Gemeinsam mit meiner Frau Astrid. Und ich schreibe Blogs. Was mich dazu motiviert? Mein ganzes Leben. </p>
+                <p> Mit 23 hatte ich bereits meine 1. Kaderstelle, eigentlich schon mit 21. Von da an ging es steil bergauf. Bei Versicherungen und Banken, Kader, Top-Kader, Geschäftsleitung, ohne Matura oder  Studium. </p>
+                <p> Der Kosmos ist meine Universität. Mein Leben ist mein Studium. Menschen, Pflanzen, Tiere sind meine Muse. Meine Familie und die Schöpfung ist mein Rückhalt, meine Inspiration und meine Motivation. </p>         
+        </div>
+
+        <div class="col-12-middle center padded padded-b-0">
+                <a href="/about.html" class="button"> Erfahre mehr </a>
+        </div>
+
+    </section>
+</section>
+
+<!-------------------- Fancy Version 
 <section class="relative tall-60 grid">
 
     <section class="bg-dark text-white col-12-middle padded">
@@ -54,6 +70,8 @@ category: deserts
     </div>
 
 </section>
+------------------------>
+
 <!------------------------ Featured blog loop ------------------------>
 <section class="padded bg-dark text-white">
 
@@ -64,46 +82,77 @@ category: deserts
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
     </div>
 
-        {% assign featured_posts = site.posts | where: 'featured', true %}
+        <section class="slider-container">
 
-        {% for post in featured_posts limit:3 %}
+            {% assign featured_posts = site.posts | where: 'featured', true %}
 
-            <div class="col-4 post-item padded-05">
-                <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
-                <div class="padded-t-1">
-                    
-                    <span class="post-info" id="text-white">by {{post.author}} // </span> 
-                    <span class="post-info" id="text-white"> {{post.date | date: "%m.%d.%Y" }} </span>
+            {% for post in featured_posts limit:3 %}
 
-                    <h2 class="margin-t-1"> {{ post.title }} </h2>
-                    <p> {{ post.description }} </p>
-                    <a href="{{ post.url }}" class="subtle-button"> Weiterlesen </a>
+                <div class="col-4 post-item padded-05 slider-item">
+                    <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
+                    <div class="padded-t-1">
+                        
+                        <span class="post-info" id="text-white">by {{post.author}} // </span> 
+                        <span class="post-info" id="text-white"> {{post.date | date: "%m.%d.%Y" }} </span>
 
+                        <h2 class="margin-t-1"> {{ post.title }} </h2>
+                        <p> {{ post.description }} </p>
+                        <a href="{{ post.url }}" class="subtle-button"> Weiterlesen </a>
+
+                    </div>
                 </div>
-            </div>
 
-        {% endfor %}
+            {% endfor %}
 
+        </section>
     </div>
 
 </section>
 
 <!--------------------  Podcast Section ------------------------>
-<section class="padded grid-spaceAround tall-60 bg-v-light">
+<section class="tall-60 bg-v-light">
+    <section class="padded grid-spaceAround capped-width">
 
-    <div class="col-4-middle">
+        <div class="col-5-middle">
+            <h3> Motivation ohne Aktion bringt nichts! </h3>
+            <p> Entdecke meinen Motivaction Podcast und erfreue dich an meinen Lektionen, Anekdoten, Impulsen und vielem mehr. Gehe mit ihm auf diesem Weg und befasse dich mit deinen eigenen Werten, deiner Motivation und deinen Zielen. Ich freue mich sehr, dass du es auf meine Webseite geschafft hast und wünsche dir viel Spass und Erfolg beim Hören meines Podcasts. </p>
+            <a href="/podcast.html" class="button"> Erfahre mehr </a>
+            <a href="https://podcasts.apple.com/ch/podcast/motivaction/id1579243037?l=en"><i class="fa-brands fa-spotify"></i></a>
+            <a href="https://open.spotify.com/show/7hb4Irh5yJtAifz4X8ARX8"><i class="fa-brands fa-apple"></i></a>               
+        </div>
+
+        <div class="col-4-middle">
+            <img src="/images/about-alfred.jpg" class="rounded">
+        </div>
+
+    </section>
+</section>
+
+<!---- Fancy Verion with image overaly
+<section class="relative tall-60 grid">
+
+    <section class="bg-dark text-white col-12-middle padded">
+        <div class="padding-r-60">
+            <h3> Motivation ohne Aktion bringt nichts! </h3>
+        </div>
+    </section>
+
+    <section class="bg-v-light col-12-middle padded">
+        <div class="padding-r-60">
+            <p> Entdecke meinen Motivaction Podcast und erfreue dich an meinen Lektionen, Anekdoten, Impulsen und vielem mehr. Gehe mit ihm auf diesem Weg und befasse dich mit deinen eigenen Werten, deiner Motivation und deinen Zielen. Ich freue mich sehr, dass du es auf meine Webseite geschafft hast und wünsche dir viel Spass und Erfolg beim Hören meines Podcasts. </p>
+            <a href="https://podcasts.apple.com/ch/podcast/motivaction/id1579243037?l=en"><i class="fa-brands fa-spotify" id="padded-l-0"></i></a>
+            <a href="https://open.spotify.com/show/7hb4Irh5yJtAifz4X8ARX8"><i class="fa-brands fa-apple"></i></a>       
+        </div>
+
+        <div class="center padded padded-b-0">
+            <a href="/podcast.html" class="button"> Erfahre mehr </a>
+        </div>
+
+    </section>
+
+    <div class="index-podcast">
         <img src="/images/about-alfred.jpg" class="rounded">
     </div>
 
-    <div class="col-5-middle">
-        <h3> Motivation ohne Aktion bringt nichts! </h3>
-        <p> Entdecke meinen Motivaction Podcast und erfreue dich an meinen Lektionen, Anekdoten, Impulsen und vielem mehr. Gehe mit ihm auf diesem Weg und befasse dich mit deinen eigenen Werten, deiner Motivation und deinen Zielen. Ich freue mich sehr, dass du es auf meine Webseite geschafft hast und wünsche dir viel Spass und Erfolg beim Hören meines Podcasts. </p>
-        <a href="/podcast.html" class="button"> Erfahre mehr </a>
-        <a href="https://podcasts.apple.com/ch/podcast/motivaction/id1579243037?l=en"><i class="fa-brands fa-spotify"></i></a>
-        <a href="https://open.spotify.com/show/7hb4Irh5yJtAifz4X8ARX8"><i class="fa-brands fa-apple"></i></a>
-                 
-    </div>
-
 </section>
-
-
+---->

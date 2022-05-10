@@ -63,6 +63,7 @@ section { position: relative; }
 .padded-1-5 {padding: 1.5rem;}
 
 .padded-b-05 { padding-bottom: 0.5rem; }
+.padded-r-05 { padding-right: 0.5rem; }
 
 .padded-t  { padding-top: 5%; }
 .padded-b  { padding-bottom: 5%; }
@@ -86,6 +87,9 @@ section { position: relative; }
 .padded-t-0 { padding-top: 0; }
 .padded-b-0 { padding-bottom: 0; }
 .padded-l-0 { padding-left: 0; }
+
+#padded-l-0 { padding-left: 0; }
+
 .padded-r-0 { padding-right: 0; }
 
 .padded-0 { padding: 0;}
@@ -148,11 +152,11 @@ section { position: relative; }
   z-index: 1;
   content: ""; 
   position: absolute;
-  top: 14vh;
-  left: 29.2vw;
-  bottom: 14vh;
-  right: 29.2vw; 
-  background-color: rgba(0,0,0,0.4);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0; 
+  background-color: rgba(0,0,0,0.3);
 }
 
 
@@ -205,6 +209,11 @@ a.bg-image { display: block;}
 .right   { text-align: right; }
 .center  { text-align: center; }
 .uppercase    { text-transform: uppercase; }
+
+.big-heading {
+  font-size: 5rem;
+
+}
 
 body {
   font-family: 'Jost', sans-serif;  /* Add your font here */ 
@@ -366,9 +375,23 @@ nav a:hover {
   max-width: 26rem;
 }
 
+.index-podcast {
+  position: absolute;
+  top: -1rem;
+  bottom: 16%;
+  right: 15%;
+  left: 61%;
+  max-width: 22rem;
+}
+
 .padding-l-60 { 
   padding-left: 53%;
   padding-right: 8%;    
+ }
+
+ .padding-r-60 { 
+  padding-left: 8%;
+  padding-right: 53%;    
  }
 
 /* Dropdown styles */
@@ -465,6 +488,62 @@ footer nav a {
     font-weight: normal;
   }
 
+/* Slider */
+
+.slider-container {
+  padding: 5%;
+}
+
+.slider-item:first-child {
+  display: block;
+}
+
+.slider-item {
+  padding: 1rem;
+  display: none;
+}
+
+.slick-prev::before {
+  content: '←';
+}
+
+.slick-next::before, .slick-prev::before {
+  font-family: inherit;
+  font-size: 20px;
+  line-height: 1;
+  opacity: .75;
+  color: rgb(90,90,90);
+}
+  
+ .slick-next {
+    right: 10px;
+  }
+  
+.slick-prev {
+  left: 10px;
+}
+/* Without this the padding of the parent affects the centering of the dots. Do not delete! */
+.slick-dots {
+  bottom: 10px;
+  left: 0;
+}
+
+.slick-dots li {
+  position: relative;
+  display: inline-block;
+  width: 10px;
+}
+
+.slick-dots li button::before {
+  font-family: slick;
+  font-size: 9px;
+  color: rgb(30,30,30);
+}
+
+.slick-dots li.slick-active button::before {
+  opacity: .75;
+  color: rgb(90,90,90);
+}
 
 
 /* ------------ Contact Forms  ----------------------- */
