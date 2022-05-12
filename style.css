@@ -36,6 +36,7 @@ section { position: relative; }
 .border-left { border-left: 1px solid #ffffff; }
 .border-top { border-top: 1px solid #ffffff; }
 .border-bottom { border-bottom: 1px solid #ffffff; }
+.border-bottom-dark { border-bottom: 1px solid var(--dark) }
 
 /* ---------- Negative Space Utility Classes  ------------------ */ 
 
@@ -137,7 +138,7 @@ section { position: relative; }
 
 .bg-image {
     background-color: var(--light); /* Set a fall-back color while images are loading */ 
-    background-image: url('https://source.unsplash.com/8Ogfqvw15Rg/1600x1600');
+    background-image: url('/images/about-alfred.jpg');
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
@@ -222,6 +223,12 @@ a.bg-image { display: block;}
 .big-heading {
   font-size: 5rem;
 
+}
+
+.about-page-sub {
+  font-size: 1rem;
+  font-weight: 200;
+  font-family: 'Jost', sans-serif;
 }
 
 body {
