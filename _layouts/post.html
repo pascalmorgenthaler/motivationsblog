@@ -26,7 +26,42 @@ layout: default
     </section>
 </section>
 
-{% include related-posts.html %}
+<!--- {% include related-posts.html %} --->
+
+<section class="padded padded-b-2 archive bg-dark text-white">
+
+    <div class="capped-width-narrow padded-05 center margin-b-1">
+        <h2> Weitere Blogposts </h2>
+    </div>
+
+    <div class="capped-width grid">
+
+        {% for post in site.posts limit: 6 %}
+
+        <a class="col-6_md-12-middle post-item padded-2 sm-padded-1" href="{{ post.url }}">
+            <div class="grid">
+                <div class="col-3-middle">
+                    <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+    
+                </div>
+                <div class="col-9-middle padded-1">
+            
+                    <h4 class="margin-t-05 margin-b-05 subtle-heading-xs"> {{ post.title }} </h4>
+                    <p class="subtitle hide-xs"> {{ post.description }} </p>
+            
+                </div>
+            </div>
+        </a>
+
+        {% endfor %}
+
+        <div class="col-12-middle center padded-2">
+            <a class="button" href="/blog-archiv"> Erfahre mehr </a>
+        </div>
+
+    </div>
+
+</section>
 
 <section class="padded">
     <div class="capped-width-narrow">
