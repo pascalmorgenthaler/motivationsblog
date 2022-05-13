@@ -25,8 +25,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-## Nachrichten
-
 **Nachrichten. Was soll dieses Thema wirst du dich vielleicht fragen? Gibt es denn nicht schon genug davon? Ja natürlich gibt es eher schon zu viel davon\!** Nur das, was man hinlänglich unter Nachrichten versteht, sind vermutlich keine oder wenigstens nur der kleinste Teil davon ist wirklich die Nachricht. Siehst du, jetzt sieht die Sache doch gleich anders aus. Gehen wir gemeinsam auf Spurensuche.
 
 ![](/images/blog-post_images/blog-2021-09-19.jpg){: width="1200" height="800"}
