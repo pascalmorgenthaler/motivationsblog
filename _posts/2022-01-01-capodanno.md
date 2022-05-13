@@ -33,7 +33,11 @@ _comments:
 ---
 In Italien wird Neujahr liebevoll "Capodanno" genannt. Capo heisst so viel wie "Chef" und danno "des Jahres." Neujahr gilt nun also in südlichen Landen als der Chef des Jahres. Nun denn. In unseren Breitengraden scheint der 1. Januar häufig einfach der auf den Sylvester folgende Tag zu sein. Nicht mehr, aber auch nicht weniger. Nichts vom Nimbus "Chef des Jahres" ist zu merken. Meist ein Tag zum Faulenzen, gehörig Ausschlafen, die einen mit, die anderen ohne Kater. Manchen dient solcherlei auch zum langsamen Abstand nehmen von seinen Neujahrsvorsätzen. Oder dem Einstimmen auf das neue Jahr mit dem obligaten Neujahrskonzert der Wiener Philharmonie. Gelassen, stimmig, so wie es gerade passt.
 
+&nbsp;
+
 ![](/images/blog-post_images/blog-2022-01-01.jpg){: width="1200" height="800"}
+
+&nbsp;
 
 Wer ein Ziel hat, packt gleich an Neujahr schon wieder den Stier wieder bei den Hörnern. Hardcoresportler zum Beispiel nehmen Neujahr gerne zum Anlass, möglichst früh aus den Federn zu springen um auf fast leeren Skipisten carvend oder snowboardend das neue Jahr im Schuss zu erobern.
 
