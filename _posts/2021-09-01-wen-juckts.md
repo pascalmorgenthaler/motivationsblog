@@ -7,7 +7,7 @@ description: >-
   die eigene Person, nicht von Interesse ist für jemand anderes, eine Gruppe von
   Menschen oder schlicht der gesamten Gesellschaft.
 author: Alfred Schuler
-featured: false
+featured: true
 categories:
   - travel
   - life
