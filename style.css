@@ -234,6 +234,7 @@ a.bg-image { display: block;}
 blockquote{
   padding: 1rem;
   border-left: 1px solid black;
+  margin-bottom: 1rem;
   }
 
 body {
