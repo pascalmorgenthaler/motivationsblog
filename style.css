@@ -18,7 +18,11 @@ Fonts:
     box-sizing: border-box;
 }
   
-img { max-width: 100%; height: auto; }
+img { 
+  max-width: 100%; 
+  height: auto;
+  padding: 2% 0 2% 0;
+ }
 
 /* Override default gridlex padding */ 
 [class*=col] { padding: 0; }
