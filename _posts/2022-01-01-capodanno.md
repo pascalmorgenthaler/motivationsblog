@@ -41,7 +41,7 @@ Wer ein Ziel hat, packt gleich an Neujahr schon wieder den Stier wieder bei den 
 
 "Und die Moral von der Geschicht?" Wer sich ein Ziel steckt, wird sich fast sicher stets ausreichend motivieren können, um dieses auch zu erreichen. Wer gerade kein Ziel findet, auf das es zuzugehen sich lohnen würde, der verlängert gerne mal eben den Schlaf um ein oder gleich mehrere Stündchen. Schliesslich ist das Jahr noch jung und es stehen ja zwischen 365 bis 366 Tage kalendermässig grundsätzlich wieder zur Verfügung, um allerlei zu erreichen.
 
-> **"Die****Veränderung****beginnt****stets****bei****dir****und****mit****dir.****Nirgendwo****sonst\!"**
+> **"Die** **Veränderung** **beginnt** **stets** **bei** **dir** **und** **mit** **dir.** **Nirgendwo****sonst\!"**
 
 Wie schaut dein Neujahr aus? Eher "Couchpotatoe" oder "schon wieder am Erobern" von was auch immer? Mit welchen Gefühlen schaust du auf das abgelaufene Jahr? Bist du froh, dass es nun endlich vorbei ist und freust du dich auf einen Neuanfang? Oder trauerst du dem verflossenen Jahr noch nach und wenn ja, warum?
 
