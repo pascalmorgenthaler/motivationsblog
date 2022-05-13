@@ -31,7 +31,7 @@ _comments:
 
 ![](/images/blog-post_images/blog-2021-09-19.jpg){: width="1200" height="800"}
 
-> > **"Nachrichten****sollten****meines****Erachtens****entstehen,****NACHdem****sich****etwas****ereignet****hat,****denn****dann****kann****man****darüber****beRICHTEN,****einverstanden?"**
+> > **"Nachrichten** **sollten** **meines** **Erachtens****entstehen,** **NACHdem** **sich****etwas** **ereignet** **hat,** **denn** **dann** **kann** **man** **darüber** **beRICHTEN,** **einverstanden?"**
 
 Nur findet das so schon längst nicht mehr statt. Vielleicht hat es Nachrichten in ihrer reinen Form gar nie wirklich gegeben? Vielleicht mag es an der Software der Menschheit an sich liegen? Sind wir denn überhaupt in der Lage eine Nachricht +/- wertfrei als das zu nehmen, was sie ist? Oder stellen wir bei uns schon fest, dass wir gleich parat sind, eine Nachricht zu analysieren und zu interpretieren, was das denn heissen soll? Nachrichten an sich sind subtil. Manchmal genügt schon ein schräger Blick von Jemand und du denkst, bei dir stimme etwas nicht. Aber war das denn wirklich die Nachricht?
 
@@ -39,7 +39,7 @@ Und wie schaut's mit all den anderen Nachrichten aus, die gewollt und vielmehr d
 
 > **"Nachrichten****sollten****dir****nützlich****sein,****sie****sollten****dir****helfen,****du****solltest****entscheiden,****was****du****hören****und****sehen****willst."**
 
-Wenn du deine Earpods genüsslich in deine Ohren steckst, hörst du ja auch die Musik, die Podcasts oder Hörspiele, die du hören willst und nicht das, was der Staat, die Medien, die Wirtschaft dir gerne zum Konsum vorschreiben möchte, ... wenn sie das könnten.
+Wenn du deine Earpods genüsslich in deine Ohren steckst, hörst du ja auch die Musik, die Podcasts oder Hörspiele, die du hören willst und nicht das, was der Staat, die Medien, die Wirtschaft dir gerne zum Konsum vorschreiben möchte, … wenn sie das könnten.
 
 Nochmals: Nachrichten sollten dir nützlich sein. Wenn dich Nachrichten beispielsweise nur noch in Angst und Schrecken versetzen, dann stimmt etwas nicht mehr. Prüfe, ist es wirklich die Nachricht oder könnte es ein "mediales Nach-Richten", Urteilen, Werten sein? Eine in die Nachricht eingeflechtete Interpretation dessen, was vielleicht passieren könnte? Etwa eine Meinung, eine Ansicht, allenfalls vielleicht auch mal im Schutze des als Deckmäntelchen missbrauchten Anspruchs der freien Meinungsäusserung vorgetragene Ideologie der für die Nachricht verantwortlichen Agenturen? Halte inne und schaue, was dich weiterbringt. Warum brauchst du diese Nachrichten noch? Wäre weniger auch hier tatsächlich mehr?
 
