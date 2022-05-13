@@ -33,8 +33,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-## Furchtlos
-
 **Der historische Sieg unserer CH-Fussballnationalmannschaft über Weltmeister Frankreich wird noch lange nachhallen. Auf jeden Fall hat dieser denkwürdige Erfolg schon jetzt einen festen und sicheren Platz in den Annalen der Schweizer Fussballnation.**
 
 Abhängig davon, wozu unsere "Tschütteler" noch an dieser EM oder später fähig sein werden, und mit Verlaub, den Begriff "Tschütteler" meine ich hier als Kompliment auch aus der Tradition unserer Schwyzertüütschen-Sprachkultur heraus\! Dieser furchtlose Auftritt wird sich im Palmar&egrave;s der Nationalmannschaft auf seinem richtigen Platz einfinden, ganz klar, so furchtlos und abschliessend, wie der Schlusspfiff beim Spielende.
@@ -59,7 +57,7 @@ Wo lasse ich mir von wem oder von was auch immer Furcht einjagen? Und warum? Was
 
 Bessere Entscheidungen treffen für dich und dein eigenes Leben? Echt jetzt? Früher hast du mit Sicherheit das Denken zum Teil an die Eltern, die Lehrer, die Trainer uam. delegiert, und heute an Arbeitgeber, deine Vorgesetzten, den oder die Partnerin, die Wirtschaft, die Politik, den Medien, dem Vereinsvorstand delegiert. Und warum?
 
-Mit Verlaub, das muss ja nicht per se schlecht sein, das Mindeste allerdings, was man aber sicherstellen und wissen sollte ist, warum ich Teilbereiche meines Lebens in andere Hände und Gehirnwindungen lege. Wo du mitmachst und warum? Was du erreichen möchtest, ja du...
+Mit Verlaub, das muss ja nicht per se schlecht sein, das Mindeste allerdings, was man aber sicherstellen und wissen sollte ist, warum ich Teilbereiche meines Lebens in andere Hände und Gehirnwindungen lege. Wo du mitmachst und warum? Was du erreichen möchtest, ja du…
 
 Und schliesslich sollte man es nur kontrolliert anderen überlassen, wenn diese dein 100%iges Vertrauen auch wirklich verdienen. Nicht von Amtes wegen, sondern von deren Integrität her.
 
