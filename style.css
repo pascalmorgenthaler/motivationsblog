@@ -53,6 +53,8 @@ section { position: relative; }
 .tall-60  { min-height: 60vh; }
 .tall-50  { min-height: 50vh; }
 
+.tall-60-max { max-width: 60vh; }
+
 /* Padding Utility Classes */ 
 
 .padded-sm { padding: 2.5%; }
@@ -513,7 +515,7 @@ footer nav a {
 /* Slider */
 
 .slider-container {
-  padding: 5%;
+  padding: 3% 12% 3% 12%;
 }
 
 .slider-item:first-child {
@@ -539,15 +541,15 @@ footer nav a {
 }
   
  .slick-next {
-    right: 35px;
+    right:100px;
   }
   
 .slick-prev {
-  left: 35px;
+  left: 100px;
 }
 /* Without this the padding of the parent affects the centering of the dots. Do not delete! */
 .slick-dots {
-  bottom: 40px;
+  bottom: 50px;
   left: 0;
 }
 
@@ -566,6 +568,10 @@ footer nav a {
 .slick-dots li.slick-active button::before {
   opacity: .75;
   color: white;
+}
+
+.slick-dotted.slick-slider {
+  margin-bottom: 0;
 }
 
 

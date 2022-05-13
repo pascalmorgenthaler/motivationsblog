@@ -83,12 +83,13 @@ category: deserts
     </div>
 </section>
 
-<section class="slider-container bg-dark text-white tall-60">
+
+<section class="slider-container bg-dark text-white">
     {% assign featured_posts = site.posts | where: 'featured', true %}
     {% for post in featured_posts limit: 6 %}          
       <div class="slider-item">              
-         <div class="post-item padded-05">      
-            <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>                 
+         <div class="post-item padded">      
+            <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>                 
             <div class="padded-t-1">
                   <span class="post-info" id="text-white">by {{post.author}} // </span><span class="post-info" id="text-white"> {{post.date | date: "%m.%d.%Y" }}</span>
                   <h2 class="margin-t-1"> {{ post.title }} </h2>
@@ -97,8 +98,9 @@ category: deserts
             </div>
           </div>
         </div>
-            {% endfor %}
+    {% endfor %}
 </section>
+
 
 <!--------------------  Podcast Section ------------------------>
 <section class="tall-60 bg-v-light">
@@ -108,8 +110,8 @@ category: deserts
             <h3> Motivation ohne Aktion bringt nichts! </h3>
             <p> Entdecke meinen Motivaction Podcast und erfreue dich an meinen Lektionen, Anekdoten, Impulsen und vielem mehr. Gehe mit ihm auf diesem Weg und befasse dich mit deinen eigenen Werten, deiner Motivation und deinen Zielen. Ich freue mich sehr, dass du es auf meine Webseite geschafft hast und wünsche dir viel Spass und Erfolg beim Hören meines Podcasts. </p>
             <a href="/podcast.html" class="button"> Erfahre mehr </a>
-            <a href="https://podcasts.apple.com/ch/podcast/motivaction/id1579243037?l=en"><i class="fa-brands fa-spotify"></i></a>
-            <a href="https://open.spotify.com/show/7hb4Irh5yJtAifz4X8ARX8"><i class="fa-brands fa-apple"></i></a>               
+            <a href="https://podcasts.apple.com/ch/podcast/motivaction/id1579243037?l=en"><i class="fa-brands fa-apple"></i></a>
+            <a href="https://open.spotify.com/show/7hb4Irh5yJtAifz4X8ARX8"><i class="fa-brands fa-spotify"></i></i></a>               
         </div>
 
         <div class="col-4-middle">
