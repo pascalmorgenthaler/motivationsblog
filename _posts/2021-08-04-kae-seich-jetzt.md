@@ -31,8 +31,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-## "Kä Seich jetzt\!"
-
 **Was****heisst****"kä****Seich****jetzt\!"****Mach****keinen****Quatsch,****trifft****es****ziemlich****gut****und****damit****wären****unsere****hoch-****tief-****und****Plattdeutschsprechenden****Nachbarn****wieder****mit****einigen****Worten****der****deutschschweizerischen****Sprache****vertraut.****Wann****sagst****du****zu****dir****oder****jemand****anderem****"So,****kä****Seich****jetzt\!"****Dem****wollen****wir****jetzt****vertieft****nachgehen,****ehrlich****\-****ohne****Quatsch\!****Komm****mit****und****lies****weiter.**
 
 Ja, es ist Sommer\! Und ja, für gewöhnlich ist jetzt die Hochblüte der medialen Saure-Gurken-Zeit. Das ist die Zeit, wo Medien allenthalben über allerlei Positives zu schreiben oder zu reden pflegen. Ereignisse und Vorfälle, die ansonsten vor dem strengen Gericht der Redaktionsbüros keine Gnade finden würden, damit auch keine Druckerschwärze, kein Papier, keine Druckerei und letztlich auch keine Leser. Müsterchen gefällig? "Ente landet auf der Autobahn bei Urdorf" oder "Appenzellerhund Barry's beste Freundin ist ein Papagei".
@@ -41,7 +39,7 @@ Ja, es ist Sommer\! Und ja, für gewöhnlich ist jetzt die Hochblüte der medial
 
 "Kä Seich jetzt\!" Nein, ist doch so. Du hast solche Artikel sicher auch schon gelesen. In Zeitungen, Online, ja sogar die Hauptausgabe der Tagesschau oder 10vor10 und andere Sendegefässe garnieren sich derweil gerne mit Nachrichten solcher Art.
 
-Und was heisst das jetzt? Wer den Eingangstext aufmerksam gelesen hat, dem sollte aufgefallen sein, dass in der Saure-Gurkenzeit gute Nachrichten auch mal die Nase vorn haben dürfen, ... weil, .... weil die schlechten Nachrichten scheinbar rarer sind, da die Menschen in den Ferien sind. Dabei ist gemäss Erhebungen nie mehr als 1/3 der Schweizer Bevölkerung gleichzeitig in den Ferien. Medial gesehen jedoch, sind die Dörfer und Städte leergefegt, eben wegen besagter Ferienzeit. So viel zum Thema Wahrnehmung. Und auch das ist "Kä Seich jetzt\!"
+Und was heisst das jetzt? Wer den Eingangstext aufmerksam gelesen hat, dem sollte aufgefallen sein, dass in der Saure-Gurkenzeit gute Nachrichten auch mal die Nase vorn haben dürfen, … weil, …. weil die schlechten Nachrichten scheinbar rarer sind, da die Menschen in den Ferien sind. Dabei ist gemäss Erhebungen nie mehr als 1/3 der Schweizer Bevölkerung gleichzeitig in den Ferien. Medial gesehen jedoch, sind die Dörfer und Städte leergefegt, eben wegen besagter Ferienzeit. So viel zum Thema Wahrnehmung. Und auch das ist "Kä Seich jetzt\!"
 
 Dabei wäre mehr Positives doch einfach besser fürs Gemüt. Nein, natürlich nicht ein positiver Test für was auch immer.
 
