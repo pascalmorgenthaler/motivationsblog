@@ -27,8 +27,6 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-## Unverblümt
-
 Heute ist mir spontan das Wort "unverblümt" in den Sinn gekommen. Einfach so. Dabei fällt mir auf, dass das Wörtlein "unverblümt" irgendwie auch an "Blümchen" erinnern soll. Womöglich aber eben eher an das Fehlen derjenigen. Mit anderen Worten, dass es also auch ohne die Blümchen geht. Wozu wären denn Blümchen gedacht? Am Verstellen des Blickes auf das Wesentliche, was als Information gesagt werden soll? Und tatsächlich gibt das Wörterbuch zum Wort "unverblümt" ebenso unverblümt Auskunft: "Adjektiv, ganz offen und ohne Umschweife."
 
 ![](/images/blog-post_images/blog-2021-10-30.jpg){: .one-half-image width="1200" height="1795"}![](/images/blog-post_images/blog-2021-10-30.jpg){: .one-half-image width="1200" height="1795"}

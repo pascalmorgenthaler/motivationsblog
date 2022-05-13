@@ -27,9 +27,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-## Stille Nacht
-
-**"Stille Nacht, heilige Nacht ..." haben diese Worte des berühmten Weihnachtsliedes dieses Jahr nicht auch eine noch besonderere Bedeutung als sonst bekommen? Vielleicht wärst du ja in einem "normalen" Jahr in die nächtliche Christmette gegangen? Dieses Jahr, war für viele der Heiligabend anders.**
+**"Stille Nacht, heilige Nacht …" haben diese Worte des berühmten Weihnachtsliedes dieses Jahr nicht auch eine noch besonderere Bedeutung als sonst bekommen? Vielleicht wärst du ja in einem "normalen" Jahr in die nächtliche Christmette gegangen? Dieses Jahr, war für viele der Heiligabend anders.**
 
 Vielleicht hast du dir im Vorfeld von Weihnachten Gedanken gemacht, ja vielleicht sogar schon begonnen dich zu Sorgen, weil es diesmal anders sein wird?
 
@@ -37,7 +35,7 @@ Vielleicht hast du dir im Vorfeld von Weihnachten Gedanken gemacht, ja vielleich
 
 Und jetzt? Am Stephanstag, dem 26. Dezember 2020, wie denkst du heute über den Heilig Abend und Weihnachten? War es besonders? Ja? War es schön? Ja? War es gar einzigartig? Ja? Wir hoffen es für dich, dass du mit 3 x Ja antworten kannst, denn du und eine Jede, ein Jeder, hat es verdient, das Weihnachten etwas besonderes war, ist und bleibt.
 
-Und vielleicht bleibt ja auch bei dir etwas von Weihnachten 2020, dass du von nun an, immer so machen möchtest? Wenn es dir Freude gemacht hat, mal im kleinen Kreise zu feiern, dann kannst du das immer wieder tun, so lange du möchtest und wenn du, mit Verlaub: "...mal eine ganz grosse Kiste..." daraus machen möchtest, dann wird auch das sicher wieder möglich werden.
+Und vielleicht bleibt ja auch bei dir etwas von Weihnachten 2020, dass du von nun an, immer so machen möchtest? Wenn es dir Freude gemacht hat, mal im kleinen Kreise zu feiern, dann kannst du das immer wieder tun, so lange du möchtest und wenn du, mit Verlaub: "…mal eine ganz grosse Kiste…" daraus machen möchtest, dann wird auch das sicher wieder möglich werden.
 
 Mir ist zum Beispiel auch aufgefallen, dass in diesem Jahr gerade in den Einkaufszentren, die Beschallung mit Weihnachtsmusik kaum noch vorgekommen ist. Etwas, worüber ich sehr froh war, so konnten wir die Weihnachtslieder und -Schlager zu Hause oder wieder so richtig geniessen. Dann nämlich, wenn es passt und stimmig ist und das ist für mich nicht unbedingt der Fall, wenn ich im Laden meine Wocheneinkäufe mache. Denn da muss mich nicht die Stimme von Bing Crosby mit "White Christmas" verfolgen. Findest du nicht auch
 
@@ -49,7 +47,7 @@ Und weisst du was? Es ist deswegen niemand verhungert oder verdurstet. Es ginge 
 
 Und neuerdings bist du auf der Bank, vermummt wie ein Bankräuber, sogar wesentlich willkommener als ohne Maske. Würde sich einer erfrechen, ohne Maske die Bank zu betreten, so könnte er wohl bald mit dem Sicherheitsdienst oder der lokalen Polizei Bekanntschaft machen.
 
-Ja und genau das soll ein älterer Mann in Italien gemacht haben\! In der Zeitung war zu lesen, dass er die Polizei (... vermutlich unter einem Vorwand...) zu sich nach Hause aufgeboten habe, damit er jemanden hatte, um auf Weihnachten anzustossen.
+Ja und genau das soll ein älterer Mann in Italien gemacht haben\! In der Zeitung war zu lesen, dass er die Polizei (… vermutlich unter einem Vorwand…) zu sich nach Hause aufgeboten habe, damit er jemanden hatte, um auf Weihnachten anzustossen.
 
 > **Na****dann,****ein****herzhaftes****"Saluti,****Carabinieri****e****buon****Natale".**
 
