@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Furchtlos
 description: >-
   Abhängig davon, wozu unsere "Tschütteler" noch an dieser EM oder später fähig

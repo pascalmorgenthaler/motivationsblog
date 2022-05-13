@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Wen juckt's?
 description: >-
   Kennst du den obgenannten Ausdruck, «Wen juckt’s?» Dieser Ausdruck ist eine

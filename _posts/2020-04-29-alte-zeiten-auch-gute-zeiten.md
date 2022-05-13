@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Alte Zeiten auch gute Zeiten?
 description: >-
   Wie kann denn etwas, das nun in der Vergangenheit ist, besser sein, als damals als es "live" in der Gegenwart gelebt wurde?

@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: "Chill mal - Gönn dir was!"
 description: >-
   Hattest du gerade ein gutes Gefühl, wenn du "Chill mal - Gönn dir was!" gelesen hast? Ich bin mir sicher,  4 von 5 Menschen, haben ein Problem damit, oder wie es heute manchmal so schön heisst, einen Challenge, eine Herausforderung.

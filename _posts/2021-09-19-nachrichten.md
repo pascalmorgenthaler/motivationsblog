@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Nachrichten
 description: >-
   Nachrichten. Was soll dieses Thema wirst du dich vielleicht fragen? Gibt es

@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Capodanno
 description: >-
   In Italien wird Neujahr liebevoll "Capodanno" genannt. Capo heisst so viel wie

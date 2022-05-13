@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Kä Seich jetzt!
 description: >-
   Was heisst "kä Seich jetzt!" Mach keinen Quatsch, trifft es ziemlich gut und

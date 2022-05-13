@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Glücklich sein mal in Ruhe betrachtet
 description: >-
   Wie war das Leben vor dem Lockdown? Viele Menschen, egal welchen Alters, waren "voll im Stress" wie es so schön heisst...

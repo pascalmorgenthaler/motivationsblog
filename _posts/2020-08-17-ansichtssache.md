@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Ansichtssache
 description: >-
   Alles ist Ansichtssache, heisst es doch so schön. Jedenfalls das Meiste davon. Schön, wenn Ansichtssache auch Ansichtssache bleibt. Wenn du das Glück hattest in einem Land aufzuwachsen, wo die "Ansicht deine Sache ist", dann hast du per se schon mal Glück gehabt.

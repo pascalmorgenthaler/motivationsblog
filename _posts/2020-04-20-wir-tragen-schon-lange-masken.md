@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Wir tragen schon lange Masken
 description: >-
   Alle liebäugeln wir bereits mit dem Ende der aktuellen Covid-19 Krise, nicht wahr? Die gesamte Krise wurde mit der Forderung des Tragens von Masken wie ein Sperrfeuer begleitet. Fachleute aller Couleur gaben dabei freimütig ihre Expertenansicht zum Besten und eigentlich wurde niemand wirklich so schlau daraus. 

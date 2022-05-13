@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Lockerungsübung
 description: >-
   Der "scharfe" Quasi-Lockdown ist gerade mal ein Tag Geschichte. Quasi-Lockdown deshalb, weil wir ja wählen durften zu Hause zu bleiben. So, wie an den Eingangstüren der Geschäfte für Fido, Barry, Bless geschrieben steht: "Ich bleibe draussen", wurde uns gebetsmühlenartig empfohlen: "Du bleibst jetzt drinnen". 

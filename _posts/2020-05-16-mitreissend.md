@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Mitreis(s)end
 description: >-
   Im Titel steht's geschrieben. Ein Buchstabe entscheidet darüber, ob du mitreissend oder einfach nur mitreisend bist. Dieser eine Buchstabe, hier das kleine "s", ist Sinnbild dafür, wie wenig es braucht, dass wir so rasch aus "unserer Mitte kippen".

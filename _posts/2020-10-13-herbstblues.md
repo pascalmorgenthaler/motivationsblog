@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Herbstblues
 description: >-
   So, der Herbstblues also ist das Thema. Grau in Grau oder was muss ich mir darunter vorstellen? Ich bin mir da nicht so sicher, wo genau der Blues drin stecken sollte. Schliesslich ist der Herbst an Farbe kaum zu überbieten.

@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Hey, wie gaht's?
 description: >-
   Ja, wie fühlst du dich denn gerade? Heute schon per Ellenbogen-Berührung jemanden "innig" begrüsst? Also, wenn mir jemand seinen Ellenbogen zur Begrüssung anbietet, dann erhebe ich lieber noch meine Hand zum Winken. So geht mir das. 

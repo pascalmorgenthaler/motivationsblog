@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Stille Nacht
 description: >-
   Vielleicht hast du dir im Vorfeld von Weihnachten Gedanken gemacht, ja

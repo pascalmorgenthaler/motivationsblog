@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Bewusst-Sein
 description: >-
   Wann bin ich mir bewusst geworden, dass ich bewusst bin, dass ich im SEIN bin?

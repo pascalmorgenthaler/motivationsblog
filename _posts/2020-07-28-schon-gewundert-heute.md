@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Schon geWUNDERt heute?
 description: >-
   Wetten, dass du unter diesem Titel etwas anderes erwartet hast? Ja, ja volkstümlich ist ein blaues Wunder wohl nicht das Erhabenste, was dir widerfahren kann.

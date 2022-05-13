@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Schönwetterkapitän des Lebens
 description: >-
   Nun ist es ja so, dass selbst das Prädikat, ein Schönwetterkapitän zu sein, verdient sein muss. Bewusst oder unbewusst. Gratis gibt's das nicht und schon gar nicht umsonst ;-) oder "there is no free lunch" wie die angelsächsischen Zungen zu sagen pflegen. 

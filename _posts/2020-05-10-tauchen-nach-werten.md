@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Tauchen nach Werten
 description: >-
   Was ist in unserem persönlichen Leben von Wert? Ist es stets das Offensichtliche? Wie sieht es aber mit Werten aus, die wir für so selbstverständlich halten, dass es scheinbar nicht Wert ist, darüber nachzudenken? 

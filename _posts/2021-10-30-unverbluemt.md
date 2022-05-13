@@ -1,5 +1,5 @@
 ---
-layout: post-with-sidebar
+layout: post
 title: Unverblümt
 description: >-
   Heute ist mir spontan das Wort "unverblümt" in den Sinn gekommen. Einfach so.
