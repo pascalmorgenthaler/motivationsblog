@@ -31,7 +31,9 @@ _comments:
 
 Heute ist mir spontan das Wort "unverblümt" in den Sinn gekommen. Einfach so. Dabei fällt mir auf, dass das Wörtlein "unverblümt" irgendwie auch an "Blümchen" erinnern soll. Womöglich aber eben eher an das Fehlen derjenigen. Mit anderen Worten, dass es also auch ohne die Blümchen geht. Wozu wären denn Blümchen gedacht? Am Verstellen des Blickes auf das Wesentliche, was als Information gesagt werden soll? Und tatsächlich gibt das Wörterbuch zum Wort "unverblümt" ebenso unverblümt Auskunft: "Adjektiv, ganz offen und ohne Umschweife."
 
-![](/images/blog-post_images/blog-2021-10-30.jpg){: .float-right-image width="1200" height="1795"}Wow\! Ganz offen und ohne Umschweife\! Das ist doch mal eine Ansage. Bevor du diese Definition gekannt hast, ging es dir da beim Wort "unverblümt" nicht auch durch den Kopf, dass unverblümt sein, etwas mit frech, vorlaut, und weiteren, vor den Kopf stossenden Attributen zu tun haben könnte? Das jemand, der unverblümt seine Meinung sagt, gar etwa rüpelhafte Züge hätte, ja gar ein unangenehmer Zeitgenosse sein könnte? Ja?
+![](/images/blog-post_images/blog-2021-10-30.jpg){: .one-half-image width="1200" height="1795"}![](/images/blog-post_images/blog-2021-10-30.jpg){: .one-half-image width="1200" height="1795"}
+
+Wow\! Ganz offen und ohne Umschweife\! Das ist doch mal eine Ansage. Bevor du diese Definition gekannt hast, ging es dir da beim Wort "unverblümt" nicht auch durch den Kopf, dass unverblümt sein, etwas mit frech, vorlaut, und weiteren, vor den Kopf stossenden Attributen zu tun haben könnte? Das jemand, der unverblümt seine Meinung sagt, gar etwa rüpelhafte Züge hätte, ja gar ein unangenehmer Zeitgenosse sein könnte? Ja?
 
 Dabei könnte "unverblümt" doch auch ganz schön sein. Offen und ohne Umschweife (…ohne Hintergedanken, ohne versteckte Absichten etc.) miteinander zu kommunizieren.
 
