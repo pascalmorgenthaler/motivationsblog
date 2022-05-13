@@ -27,7 +27,7 @@ category: deserts
 <section class="tall-60 bg-v-light">
     <section class="bg-v-light grid-spaceAround padded capped-width">
         <div class="col-4-middle">
-            <img src="/images/about-alfred-2.jpg" class="rounded">
+            <img src="/images/about-alfred-2.jpg">
         </div>
         <div class="col-5-middle">
                 <h3> Hallo, ich bin Alfred! <br> Schön das du da bist. </h3>
@@ -73,43 +73,31 @@ category: deserts
 ------------------------>
 
 <!------------------------ Featured blog loop ------------------------>
-<section class="padded bg-dark text-white">
 
-    <div class="capped-width grid-center">
-
-    <div class="col-12 padded-05 center margin-b-1">
-        <h2> Meine neusten Blogs </h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
+<section class="padded bg-dark text-white padded-b-0">
+    <div class="capped-width grid-center">      
+      <div class="col-12 padded-05 center margin-b-1">    
+        <h2> Meine neusten Blogs </h2>       
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>   
+      </div>
     </div>
+</section>
 
-        <section class="slider-container grid">
-
-            {% assign featured_posts = site.posts | where: 'featured', true %}
-
-            {% for post in featured_posts limit: 6 %}
-            <div class="col-4">
-                <div class="slider-item">
-                    <div class="post-item padded-05">
-                        <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
-                        <div class="padded-t-1">
-                            
-                            <span class="post-info" id="text-white">by {{post.author}} // </span> 
-                            <span class="post-info" id="text-white"> {{post.date | date: "%m.%d.%Y" }} </span>
-
-                            <h2 class="margin-t-1"> {{ post.title }} </h2>
-                            <p> {{ post.description }} </p>
-                            <a href="{{ post.url }}" class="subtle-button"> Weiterlesen </a>
-
-                        </div>
-                    </div>
-                </div>
+<section class="slider-container bg-dark text-white tall-60">
+    {% assign featured_posts = site.posts | where: 'featured', true %}
+    {% for post in featured_posts limit: 6 %}          
+      <div class="slider-item">              
+         <div class="post-item padded-05">      
+            <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>                 
+            <div class="padded-t-1">
+                  <span class="post-info" id="text-white">by {{post.author}} // </span><span class="post-info" id="text-white"> {{post.date | date: "%m.%d.%Y" }}</span>
+                  <h2 class="margin-t-1"> {{ post.title }} </h2>
+                  <p> {{ post.description }} </p>               
+                  <a href="{{ post.url }}" class="subtle-button"> Weiterlesen </a>
             </div>
-
+          </div>
+        </div>
             {% endfor %}
-
-        </section>
-    </div>
-
 </section>
 
 <!--------------------  Podcast Section ------------------------>
@@ -125,7 +113,7 @@ category: deserts
         </div>
 
         <div class="col-4-middle">
-            <img src="/images/about-alfred.jpg" class="rounded">
+            <img src="/images/about-alfred.jpg">
         </div>
 
     </section>

@@ -523,6 +523,7 @@ footer nav a {
 .slider-item {
   padding: 1rem;
   display: none;
+  max-width: 25%;
 }
 
 .slick-prev::before {
@@ -538,15 +539,15 @@ footer nav a {
 }
   
  .slick-next {
-    right: 10px;
+    right: 35px;
   }
   
 .slick-prev {
-  left: 10px;
+  left: 35px;
 }
 /* Without this the padding of the parent affects the centering of the dots. Do not delete! */
 .slick-dots {
-  bottom: 10px;
+  bottom: 40px;
   left: 0;
 }
 
