@@ -31,7 +31,7 @@ _comments:
 
 Hattest du gerade ein gutes Gefühl, wenn du "Chill mal - Gönn dir was\!" gelesen hast? Ich bin mir sicher, 4 von 5 Menschen, haben ein Problem damit, oder wie es heute manchmal so schön heisst, einen Challenge, eine Herausforderung. Nun, die "Herausforderung" besteht für viele darin, dass sie zwar spontan sagen können, was sie sich jetzt gerade gerne gönnen würden. Gleichzeitig aber kommen die Selbstzweifel darüber, sich etwas zu gönnen, auf.
 
-![](/images/blog-post_images/blog-2020-07-18.jpg){: width="1200" height="1600"}
+![Ein Hund mit Sonnenbrille, der in einer Hängematte am geniessen ist.](/images/blog-post_images/blog-2020-07-18.jpg "Ein Hund am geniessen"){: width="1200" height="1600"}
 
 **Pflicht und Kür**
 
