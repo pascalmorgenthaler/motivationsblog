@@ -30,11 +30,9 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-## Aufgetischt
-
 **Morgen zum Hl. Nikolaus ist auch gleich der 2. Advent. Offiziell ist der "Samichlaus" quasi im Lockdown, doch inoffiziell habe ich heut am Vorabend die verdächtigen Hornklänge von Knecht Ruprecht im Dorf vernommen.**
 
-Also gibt es doch einen Nikolausbesuch? Gute Frage. Vielleicht auch nur bis zum Briefkasten, wo er das Chlaussäckli hineinlegt, um sich anschliessend mit seinem Schmutzli und den Engeln aus dem "Staub zu machen?" Hm, ... eigenartig sowas. Aber nicht ungewöhnlich für das Jahr 2020, im Zeichen von Corona.
+Also gibt es doch einen Nikolausbesuch? Gute Frage. Vielleicht auch nur bis zum Briefkasten, wo er das Chlaussäckli hineinlegt, um sich anschliessend mit seinem Schmutzli und den Engeln aus dem "Staub zu machen?" Hm, … eigenartig sowas. Aber nicht ungewöhnlich für das Jahr 2020, im Zeichen von Corona.
 
 ![](/images/blog-post_images/blog-2020-12-05.jpg){: width="1200" height="800"}
 
@@ -44,7 +42,7 @@ Fragen wie: "Was kommt an Weihnachten denn auf den Tisch?" Das was stehts aufget
 
 Fragen über Fragen. Ja und dann wäre noch die allenthalben in faltengelegte Stirne bei vielen Mitbürgern, die sich selbst fragen, was sie ihren Liebsten schenken sollen. Gute Frage, ja?
 
-..."Start free from the scratch", sagen die Amerikaner gerne. Will heissen, du beginnst auf der grünen Wiese mit deinem Projekt, fängst mal ganz von vorne an zu denken. Lässt grundsätzlich mal alles im Bereiche des Möglichen zu, schliesst noch gar nichts aus.
+…"Start free from the scratch", sagen die Amerikaner gerne. Will heissen, du beginnst auf der grünen Wiese mit deinem Projekt, fängst mal ganz von vorne an zu denken. Lässt grundsätzlich mal alles im Bereiche des Möglichen zu, schliesst noch gar nichts aus.
 
 > **Warum nicht also mal im 2020 so das Eine oder Andere oder das Ganze mal verändern?**
 
