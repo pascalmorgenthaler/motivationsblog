@@ -5,9 +5,7 @@ description: >-
   Abhängig davon, wozu unsere "Tschütteler" noch an dieser EM oder später fähig
   sein werden, und mit Verlaub, den Begriff "Tschütteler" meine ich hier als
   Kompliment auch aus der Tradition unserer Schwyzertüütschen-Sprachkultur
-  heraus! Dieser furchtlose Auftritt wird  sich im Palmarès der
-  Nationalmannschaft auf seinem richtigen Platz einfinden, ganz klar, so
-  furchtlos und abschliessend, wie der Schlusspfiff beim Spielende.
+  heraus!
 author: Alfred Schuler
 featured: true
 categories:
@@ -20,9 +18,7 @@ seo:
     Abhängig davon, wozu unsere "Tschütteler" noch an dieser EM oder später
     fähig sein werden, und mit Verlaub, den Begriff "Tschütteler" meine ich hier
     als Kompliment auch aus der Tradition unserer Schwyzertüütschen-Sprachkultur
-    heraus! Dieser furchtlose Auftritt wird  sich im Palmarès der
-    Nationalmannschaft auf seinem richtigen Platz einfinden, ganz klar, so
-    furchtlos und abschliessend, wie der Schlusspfiff beim Spielende.
+    heraus!
   social_image:
   twitter_card:
   keywords: >-

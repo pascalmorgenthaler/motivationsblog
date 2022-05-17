@@ -470,6 +470,7 @@ nav a:hover {
     right: 5%;
     top: 0rem;
     z-index: 4;
+    margin-top: 0.8rem;
   }
   
 /* Footer Styles */
@@ -499,7 +500,7 @@ footer nav a {
   
   .mobile-menu {
     display: none; 
-    background-color: var(--featured);
+    background-color: var(--dark);
     padding: 5%;
     position: fixed; 
     z-index:3;
@@ -512,7 +513,7 @@ footer nav a {
   
   .mobile-menu a {
     text-decoration: none; 
-    color: inherit; 
+    color: white; 
     padding: 2%;
     display: block;
     font-weight: normal;
@@ -547,15 +548,15 @@ footer nav a {
 }
   
  .slick-next {
-    right:100px;
+    right:25px;
   }
   
 .slick-prev {
-  left: 100px;
+  left: 25px;
 }
 /* Without this the padding of the parent affects the centering of the dots. Do not delete! */
 .slick-dots {
-  bottom: 50px;
+  bottom: 30px;
   left: 0;
 }
 
@@ -720,9 +721,13 @@ hr.short.center {
   .sm-text-left   { text-align: left; }
   .sm-text-right  { text-align: right; }
 
+  .sm-smaller-text-1 { font-size: 1.6rem; }
+  .sm-big-heading { font-size: 3rem; }
+
   .sm-padded     { padding: 5%; }
   .sm-padded-1   { padding: 1rem; }
   .sm-padded-05  { padding: 0.5rem; }
+  .sm-padded-l-05  { padding-left: 0.5rem; }
 
   .sm-padded-t-0 { padding-top: 0; }
   .sm-padded-b-0 { padding-bottom: 0; }
@@ -743,6 +748,11 @@ hr.short.center {
 
 		.show-xs { display: block; }
 		.hide-xs { display: none;  }
+
+    .xs-big-heading { font-size: 1.8rem; }
+    .xs-tall-50 { min-height: 50vh; }
+    .xs-padded-top { padding-top: 1rem; }
+    .xs-padded-b { padding-bottom: 1rem; }
 
     .subtle-heading-xs {
       font-weight: 300;

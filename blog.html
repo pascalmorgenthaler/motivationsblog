@@ -20,7 +20,7 @@ seo:
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
     </div>
 
-        {% for post in site.posts limit:3 %}
+        {% for post in site.posts limit:12 %}
 
             {% include post-loop-item-square.html %}
 
@@ -48,18 +48,8 @@ seo:
 
 
 <!------------------------ Split blog loop (part 2) ------------------------>
+<!----->
 <section class="padded padded-b-05 bg-v-light padded-t-0">
-
-    <div class="capped-width grid-center">
-
-        {% for post in site.posts limit:12 offset:3 %}
-
-                {% include post-loop-item-square.html %}
-
-        {% endfor %}
-
-    </div>
-
 
     <!-- This checks if there are more than 15 blog posts, and if there are shows a link to the full blog archive -->
 
