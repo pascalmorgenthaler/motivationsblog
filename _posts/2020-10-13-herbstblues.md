@@ -35,7 +35,7 @@ So, der Herbstblues also ist das Thema. Grau in Grau oder was muss ich mir darun
 
 Einverstanden, wenn es regnet oder nieselt und der Bodennebel kommt hinzugeschlichen, wenn die Bäume sich ihrem Blattwerk entledigen, … und der Wind diese dann - gefühlt zumindest - alle vor den eigenen Hauseingang weht, wo die Blätter dann lustig ihre Kreise drehen, … bis der Laubrechen oder neuerdings der Laubbläser, dem ein Ende setzt … ja, das könnte dann vielleicht ein klitzekleines Anzeichen für Blues sein. **Daueroptimist?**
 
-> **Interessanterweise****ist****bei****mir****auch****da****noch****das****Glas****halb****voll,****wo****es****andernorts****vielleicht****bereits****halbleer****ist,****wohlverstanden,****das****gleiche****Glas,****so****rein****akademisch****betrachtet.****Tja.**
+> > **Interessanterweise****ist****bei****mir****auch****da****noch****das****Glas****halb****voll,****wo****es****andernorts****vielleicht****bereits****halbleer****ist,****wohlverstanden,****das****gleiche****Glas,****so****rein****akademisch****betrachtet.****Tja.**
 
 Wie dem auch sei, vermutlich versteckt sich der Blues also auch nicht unter einem Laubhaufen. Sonst wäre er beim Zusammenwischen der ausgedienten Photosynthese Kraftwerke, lies Blätter, zum Vorschein gekommen.
 
