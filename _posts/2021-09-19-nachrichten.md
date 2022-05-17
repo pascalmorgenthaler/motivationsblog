@@ -35,7 +35,7 @@ Nur findet das so schon längst nicht mehr statt. Vielleicht hat es Nachrichten 
 
 Und wie schaut's mit all den anderen Nachrichten aus, die gewollt und vielmehr doch eher zufällig, die ganze Zeit auf dich herunterrieseln? Tropfen sie ab oder gehen sie doch rein bei dir? Nichts ist scheinbar wichtiger als Nachrichten. Wenn du im Auto sitzt, dann wirst du in schöner Regelmässigkeit mit Nachrichten zum Wetter, Strassenverkehr und der Börse bedient. Unablässig. So lange, bis du dich entscheidest, das Radio auszumachen, dein Smartphone zu verbinden und dann kannst du hören, was du wirklich hören möchtest. Vielleicht funken dann noch die Strassenzustandsnachrichten dazwischen, aber das kann ja hilfreich sein, wenn du auf einer vielbefahrenen Strecke unterwegs bist.
 
-> **"Nachrichten** **sollten****dir** **nützlich****sein,** **sie** **sollten****dir** **helfen,****du** **solltest****entscheiden,** **was****du** **hören****und** **sehen****willst."**
+> **"Nachrichten** **sollten** **dir** **nützlich** **sein,** **sie** **sollten** **dir** **helfen,** **du** **solltest** **entscheiden,** **was** **du** **hören** **und** **sehen****willst."**
 
 Wenn du deine Earpods genüsslich in deine Ohren steckst, hörst du ja auch die Musik, die Podcasts oder Hörspiele, die du hören willst und nicht das, was der Staat, die Medien, die Wirtschaft dir gerne zum Konsum vorschreiben möchte, … wenn sie das könnten.
 
