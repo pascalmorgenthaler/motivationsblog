@@ -35,7 +35,7 @@ Wow\! Ganz offen und ohne Umschweife\! Das ist doch mal eine Ansage. Bevor du di
 
 Dabei könnte "unverblümt" doch auch ganz schön sein. Offen und ohne Umschweife (…ohne Hintergedanken, ohne versteckte Absichten etc.) miteinander zu kommunizieren.
 
-> **"Hand** **aufs****Herz****…****oder****auf** **den****Mund…"**
+> **"Hand** **aufs****Herz****…****oder** **auf** **den** **Mund…"**
 
 Wer ist denn heute noch ganz offen? Wann, wo und überhaupt? Wer kommt denn heute noch ohne Umschweife zur Sache, auf den Punkt, trifft den Nagel auf den Kopf, dass man gleich weiss, was Sache ist? Wohl wenige. Viele glauben, man könne es sich nicht leisten. Erst als finanziell unabhängiger Philanthrop, Multimilliardär vielleicht. Die offene Rede wird versteckt hinter allerlei Formen von Ränken, Konjunktivformen wie, könnte, würde, "man"… und der allgegenwärtigen Angst, wovor auch immer.
 
