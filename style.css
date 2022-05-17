@@ -228,7 +228,7 @@ a.bg-image { display: block;}
 
 .big-heading {
   font-size: 5rem;
-
+  letter-spacing: 0.1rem;
 }
 
 .about-page-sub {
@@ -254,8 +254,9 @@ h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-   font-family: 'Bookmania', serif;
+   font-family: 'orpheuspro', serif;
    font-weight: 400;
+   letter-spacing: 0.03rem;
 }
 
 h2 { font-size: 2rem; }
@@ -360,11 +361,11 @@ nav a:hover {
 }
 
 .logo {
-  font-family: 'bookmania', serif;
+  font-family: 'orpheuspro', serif; 
   text-decoration: none;
   font-size: 2rem;
   padding: 1rem;
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.12rem;
 } 
 
 .logo-blog {
@@ -372,6 +373,7 @@ nav a:hover {
   display: inline;
   text-decoration: none;
   font-size: 1.2rem;
+  font-weight: 400;
 }
 
 .header-friends {
@@ -617,9 +619,10 @@ footer nav a {
 /* Individual Blog Post Pages  */
 
 .blog-content h1 {
-  font-family: 'Martel', serif; 
+  font-family: 'orpheuspro', serif; 
   font-weight: 200;
   font-size: 3rem;
+  letter-spacing: 0.1rem;
 }
 
 .blog-content p {
