@@ -2,9 +2,9 @@
 layout: post
 title: Kä Seich jetzt!
 description: >-
-  Was heisst "kä Seich jetzt!" Mach keinen Quatsch, trifft es ziemlich gut. Wann sagst du zu
-  dir oder jemand anderem "So, kä Seich jetzt!" Dem wollen wir jetzt vertieft
-  nachgehen, ehrlich - ohne Quatsch! Komm mit und lies weiter.
+  Was heisst "kä Seich jetzt!" Mach keinen Quatsch, trifft es ziemlich gut. Wann
+  sagst du zu dir oder jemand anderem "So, kä Seich jetzt!" Dem wollen wir jetzt
+  vertieft nachgehen, ehrlich - ohne Quatsch! Komm mit und lies weiter.
 author: Alfred Schuler
 featured: true
 categories:
@@ -14,9 +14,10 @@ featured_image: /images/blog-post_images/blog-2021-08-04.jpg
 seo:
   title: Kä Seich jetzt!
   description: >-
-    Was heisst "kä Seich jetzt!" Mach keinen Quatsch, trifft es ziemlich gut. Wann sagst
-    du zu dir oder jemand anderem "So, kä Seich jetzt!" Dem wollen wir jetzt
-    vertieft nachgehen, ehrlich - ohne Quatsch! Komm mit und lies weiter.
+    Was heisst "kä Seich jetzt!" Mach keinen Quatsch, trifft es ziemlich gut.
+    Wann sagst du zu dir oder jemand anderem "So, kä Seich jetzt!" Dem wollen
+    wir jetzt vertieft nachgehen, ehrlich - ohne Quatsch! Komm mit und lies
+    weiter.
   social_image:
   twitter_card:
   keywords: >-
@@ -27,7 +28,7 @@ _comments:
   title: Max 70 characters
   social_image: landscape 1200 x 600px
 ---
-**Was****heisst****"kä****Seich****jetzt\!"****?****Mach****keinen****Quatsch,****trifft****es****ziemlich****gut****und****damit****wären****unsere****hoch-****tief-****und****Plattdeutschsprechenden****Nachbarn****wieder****mit****einigen****Worten****der****deutschschweizerischen****Sprache****vertraut.****Wann****sagst****du****zu****dir****oder****jemand****anderem****"So,****kä****Seich****jetzt\!"****Dem****wollen****wir****jetzt****vertieft****nachgehen,****ehrlich****\-****ohne****Quatsch\!****Komm****mit****und****lies****weiter.**
+**Was** **heisst****"kä** **Seich****jetzt\!"****?** **Mach****keinen****Quatsch,** **trifft** **es****ziemlich****gut** **und** **damit****wären** **unsere** **hoch -** **tief-****und** **Plattdeutschsprechenden** **Nachbarn** **wieder** **mit****einigen****Worten** **der** **deutsch schweizerischen** **Sprache** **vertraut.** **Wann** **sagst****du****zu** **dir****oder****jemand****a nderem** **"So,** **kä** **Seich** **jetzt\!"** **Dem** **wollen****wir** **jetzt** **vertieft** **nachgehen,** **ehrlich****\-****ohne** **Quatsch\!** **Komm** **mit** **und** **lies** **weiter.**
 
 Ja, es ist Sommer\! Und ja, für gewöhnlich ist jetzt die Hochblüte der medialen Saure-Gurken-Zeit. Das ist die Zeit, wo Medien allenthalben über allerlei Positives zu schreiben oder zu reden pflegen. Ereignisse und Vorfälle, die ansonsten vor dem strengen Gericht der Redaktionsbüros keine Gnade finden würden, damit auch keine Druckerschwärze, kein Papier, keine Druckerei und letztlich auch keine Leser. Müsterchen gefällig? "Ente landet auf der Autobahn bei Urdorf" oder "Appenzellerhund Barry's beste Freundin ist ein Papagei".
 
@@ -49,7 +50,7 @@ Ein Schelm der Böses dabei denkt, heisst es doch in geflügelten Worten und Nei
 
 Nur für den Fall, dass du gerade jetzt gemerkt haben solltest, dass du dich in deiner eigenen, ganz persönlichen Saure-Gurken-Zeit befindest und das nicht erst seit dem Beginn der Sommerferien, tja dann ist es "höchste Eisenbahn", dass dir jemand "kä Seich jetzt\!" sagst, so dass du aus deinem eigenen Sommerloch hervorkraxeln kannst, ohne dir den Fuss am inneren Schweinehund zu stossen. Gehe darüber hinweg, suche und finde neue Ziele und wenn dieses noch so weit entfernt scheint, sieh zu, was du brauchst, um das Ziel erreichen und mache einen Schritt nach dem anderen, darauf zu.
 
-> **"Unabhängig****davon,****ob****es****einfach****ist****oder****nicht,****wenn****der****Anfang****gemacht****ist,****dann****wird****es****besser,****day****by****day."**
+> **"Unabhängig** **davon,** **ob** **es** **einfach****ist** **oder****nicht,****wenn****der****Anfang** **gemacht** **ist,** **dann** **wird** **es****besser,** **day** **by** **day."**
 
 Herzlichst
 
