@@ -143,14 +143,11 @@ section { position: relative; }
 .bg-featured { background-color: var(--featured);}
 
 .bg-image {
-    background-color: var(--light); /* Set a fall-back color while images are loading */ 
-    background-image: url('/images/about-alfred.jpg');
+    background-color: var(--v-light); /* Set a fall-back color while images are loading */ 
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
 }
-
-.bg-header { background-image: url('/images/index-header.jpg') }
 
 .rounded { 
     border-radius: 50rem 50rem 0 0;
