@@ -1,4 +1,4 @@
-$( document ).ready(function() {});
+$( document ).ready(function() {
 
 $('.hamburger-button').click(function(){
     $('.mobile-menu').fadeToggle(100);
@@ -139,3 +139,5 @@ document.addEventListener("DOMContentLoaded", function() {
     window.addEventListener("orientationChange", lazyload);
   }
 })
+
+});
