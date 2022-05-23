@@ -33,9 +33,7 @@ _comments:
 
 Abhängig davon, wozu unsere "Tschütteler" noch an dieser EM oder später fähig sein werden, und mit Verlaub, den Begriff "Tschütteler" meine ich hier als Kompliment auch aus der Tradition unserer Schwyzertüütschen-Sprachkultur heraus\! Dieser furchtlose Auftritt wird sich im Palmar&egrave;s der Nationalmannschaft auf seinem richtigen Platz einfinden, ganz klar, so furchtlos und abschliessend, wie der Schlusspfiff beim Spielende.
 
-![](/images/blog-post_images/blog-2021-06-29.jpg){: .one-half-image width="1200" height="2133"}![](/images/blog-post_images/blog-2021-06-29.jpg){: .one-half-image width="1200" height="2133"}
-
-> **Hast du es Eingangs schon bemerkt? Ist es dir auch aufgefallen? Furchtlos heisst nicht "Blind vor Eifer", es heisst auch nicht sämtlichen Respekt vor der Aufgabe zu vergessen.**
+![](/images/blog-post_images/blog-2021-06-29.jpg){: .float-left-image width="1200" height="2133"}**Hast du es Eingangs schon bemerkt? Ist es dir auch aufgefallen? Furchtlos heisst nicht "Blind vor Eifer", es heisst auch nicht sämtlichen Respekt vor der Aufgabe zu vergessen.**
 
 Es heisst auch unmöglich, seine Bedenken durch eine tollkühne Form von Waghalsigkeit zu ersetzen. Nein, Furchtlosigkeit ist etwas ganz anderes. Es heisst, nach einem Rückstand wieder aufzustehen, sich neu zu sortieren und seiner eigenen, innewohnenden Motivation folgend, tapfer und furchtlos das Richtige zu tun. Ohne Angst. Im Vertrauen auf sein Können und die Schöpfung.
 
