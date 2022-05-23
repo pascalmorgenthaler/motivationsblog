@@ -49,7 +49,7 @@ Und neuerdings bist du auf der Bank, vermummt wie ein Bankräuber, sogar wesentl
 
 Ja und genau das soll ein älterer Mann in Italien gemacht haben\! In der Zeitung war zu lesen, dass er die Polizei (… vermutlich unter einem Vorwand…) zu sich nach Hause aufgeboten habe, damit er jemanden hatte, um auf Weihnachten anzustossen.
 
-> **Na****dann,****ein****herzhaftes****"Saluti,****Carabinieri****e****buon****Natale".**
+> **Na** **dann,** **ein****herzhaftes** **"Saluti,****Carabinieri** **e****buon** **Natale".**
 
 Vielleicht hast du nun Lust bekommen, dir deine eigenen Gedanken zu diesen Weihnachten zu machen. Nur zu.
 
