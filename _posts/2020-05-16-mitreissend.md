@@ -31,9 +31,7 @@ _comments:
 
 Im Titel steht's geschrieben. Ein Buchstabe entscheidet darüber, ob du mitreissend oder einfach nur mitreisend bist. Dieser eine Buchstabe, hier das kleine "s", ist Sinnbild dafür, wie wenig es braucht, dass wir so rasch aus "unserer Mitte kippen".
 
-![](/images/blog-post_images/blog-2020-05-16.jpg){: width="1200" height="1800"}
-
-Ein klitzekleiner Spielverderber reicht aus und unser mitreissender Fluss an Energie, Ideen, Fantasien, Tatendrang, Wissensdurst und vieles andere mehr, verwandelt sich in ein zahmes Bächlein, um nicht zu sagen in ein kleines zu versickern drohendes Rinnsal. Kennst du das?
+![](/images/blog-post_images/blog-2020-05-16.jpg){: .float-left-image width="1200" height="1800"}Ein klitzekleiner Spielverderber reicht aus und unser mitreissender Fluss an Energie, Ideen, Fantasien, Tatendrang, Wissensdurst und vieles andere mehr, verwandelt sich in ein zahmes Bächlein, um nicht zu sagen in ein kleines zu versickern drohendes Rinnsal. Kennst du das?
 
 **Gift für deinen Akku**
 
@@ -49,7 +47,7 @@ So, und wie kommst du da wieder raus? Zuallererst schmeiss die gedankliche Sitzb
 
 **Neue Strukturen im Hirn**
 
-Übersetzt heisst das, dass du Strukturen brauchst, damit du weisst, wie du mit dieser Art mentalen oder physischen Spielverderbern umgehen kannst. Diese kommen nämlich urplötzlich und im dümmsten Moment von überall her. Die einen kommen von Aussen, die anderen aber, und das ist leider viel häufiger der Fall, kommen von Innen. Das sind deine innerlichen Spielverderber. Und die, die haben ein noch viel leichteres Spiel mit dir. Deine inneren Widersacher kennen dich viel viel besser. Sie wissen genau wo dein wunder Punkt ist und sie verstehen es perfekt, auf dieser Klaviatur zu spielen und dir ihr Liedchen aufzuzwingen, es sei denn...
+Übersetzt heisst das, dass du Strukturen brauchst, damit du weisst, wie du mit dieser Art mentalen oder physischen Spielverderbern umgehen kannst. Diese kommen nämlich urplötzlich und im dümmsten Moment von überall her. Die einen kommen von Aussen, die anderen aber, und das ist leider viel häufiger der Fall, kommen von Innen. Das sind deine innerlichen Spielverderber. Und die, die haben ein noch viel leichteres Spiel mit dir. Deine inneren Widersacher kennen dich viel viel besser. Sie wissen genau wo dein wunder Punkt ist und sie verstehen es perfekt, auf dieser Klaviatur zu spielen und dir ihr Liedchen aufzuzwingen, es sei denn…
 
 **"En garde" zum Gefecht**
 
