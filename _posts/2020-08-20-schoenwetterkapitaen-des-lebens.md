@@ -31,9 +31,7 @@ _comments:
 
 un ist es ja so, dass selbst das Prädikat, ein Schönwetterkapitän zu sein, verdient sein muss. Bewusst oder unbewusst. Gratis gibt's das nicht und schon gar nicht umsonst ;-) oder "there is no free lunch" wie die angelsächsischen Zungen zu sagen pflegen.
 
-![](/images/blog-post_images/blog-2020-08-20.jpg){: width="1200" height="1326"}
-
-**Unterstellung**
+![](/images/blog-post_images/blog-2020-08-20.jpg){: .float-left-image width="1200" height="1326"}**Unterstellung**
 
 Damit es jemand zum Schönwetterkapitan schafft, sind einige Unterstellungen nötig, basierend auf mindestens einem kleinen Auslöser, des mit dem Attribut zu Versehenden. Angenommen, ein Sonntagsfahrer fährt durch eine malerische Gegend, und nein, es muss nicht dringend Sonntag sein, dann kann der Fahrer des folgenden Fahrzeugs u. U. wenig Geduld dafür aufbringen, weil dieser Mensch so rasch wie möglich von A nach B fahren möchte, die Gegend schon kennt und auch sonst nicht auf "Spielchen" eingestellt ist. Grund genug, den Vorfahrer als Sonntagsfahrer einzustufen.
 
@@ -47,7 +45,7 @@ Meistens interessiert das den sonntagsfahrenden Schönwasserkapitän nicht im Ge
 
 **Guten Grund**
 
-Und genau der gute Grund ist entscheidend für unsere Handlungen. Ohne einen guten Grund tut Mensch so gut wie gar nichts. So ist das\! Wenn der gute Grund von innen heraus kommt, dann ist es umso besser, denn dann hat dieser gute Grund die eigene Selbst-Motivation, quasi schon in die eigene Hosentasche gesteckt, salopp gesagt ... im Sack\! Kommt der gute Grund allerdings von Aussen, dann kann es sein, dass die Inkubationszeit, von der Ansteckung bis zum Ausbruch, um den guten Grund nun auch in in die Tat umzusetzen, etwas mehr Zeit in Anspruch nimmt. Menschlich halt.
+Und genau der gute Grund ist entscheidend für unsere Handlungen. Ohne einen guten Grund tut Mensch so gut wie gar nichts. So ist das\! Wenn der gute Grund von innen heraus kommt, dann ist es umso besser, denn dann hat dieser gute Grund die eigene Selbst-Motivation, quasi schon in die eigene Hosentasche gesteckt, salopp gesagt … im Sack\! Kommt der gute Grund allerdings von Aussen, dann kann es sein, dass die Inkubationszeit, von der Ansteckung bis zum Ausbruch, um den guten Grund nun auch in in die Tat umzusetzen, etwas mehr Zeit in Anspruch nimmt. Menschlich halt.
 
 **Was ist dein guter Grund\!**
 
