@@ -31,9 +31,7 @@ _comments:
 
 Alles ist Ansichtssache, heisst es doch so schön. Jedenfalls das Meiste davon. Schön, wenn Ansichtssache auch Ansichtssache bleibt. Wenn du das Glück hattest in einem Land aufzuwachsen, wo die "Ansicht deine Sache ist", dann hast du per se schon mal Glück gehabt.
 
-![](/images/blog-post_images/blog-2020-08-17.jpg){: .one-half-image width="1200" height="1600"}![](/images/blog-post_images/blog-2020-08-17.jpg){: .one-half-image width="1200" height="1600"}
-
-> **Wenn du es erst später immerhin noch lernen konntest, auch gut, denn gelernt ist gelernt. **
+![](/images/blog-post_images/blog-2020-08-17.jpg){: .float-left-image width="1200" height="1600"}Wenn du es erst später immerhin noch lernen konntest, auch gut, denn gelernt ist gelernt.
 
 **Mach dir ein Bild**
 
