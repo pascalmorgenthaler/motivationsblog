@@ -23,11 +23,9 @@ _comments:
 ---
 Ein alter Schlager mit dem Titel "Nach em Räge schiint z'Sunnä, nach em Briegge wird g'lacht" trifft den Nagel hoffentlich auch diesmal wieder auf den Kopf.
 
-![](/images/blog-post_images/blog-2020-04-29.jpg){: width="1200" height="2133"}
+![](/images/blog-post_images/blog-2020-04-29.jpg){: .float-left-image width="1200" height="2133"}**Alte Zeiten auch gute Zeiten?**
 
-**Alte Zeiten auch gute Zeiten?**
-
-Generationen vor uns haben in ihrer damaligen Gegenwart gedacht, es wären schwere Zeiten. Zweifellos hatten sie diese auch wirklich. Denkt man nur an die beiden Weltkriege oder davor noch an die grossen Auswanderungswellen, weil es zu wenig Arbeit gab und davor ... ja, es liesse sich beliebig lange weiterführen. Und ist es nicht doch auch eine Tatsache, dass die guten alten Zeiten, wie es aus dem Wort "alten Zeiten" von allen unseren Vorfahren stets in deren Vergangenheit angesiedelt wurden? Woran das liegen mag?
+Generationen vor uns haben in ihrer damaligen Gegenwart gedacht, es wären schwere Zeiten. Zweifellos hatten sie diese auch wirklich. Denkt man nur an die beiden Weltkriege oder davor noch an die grossen Auswanderungswellen, weil es zu wenig Arbeit gab und davor … ja, es liesse sich beliebig lange weiterführen. Und ist es nicht doch auch eine Tatsache, dass die guten alten Zeiten, wie es aus dem Wort "alten Zeiten" von allen unseren Vorfahren stets in deren Vergangenheit angesiedelt wurden? Woran das liegen mag?
 
 **Wir lernen immer**
 
