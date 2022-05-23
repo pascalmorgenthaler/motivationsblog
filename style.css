@@ -344,6 +344,16 @@ p a:hover {
   color: var(--dark);
 }
 
+.subtle-button-inverse {
+  text-decoration: none;
+  border-bottom: 1px solid;
+}
+
+.subtle-button-inverse:hover {
+  color: var(--featured-text);
+}
+
+
 .fa-brands {
   font-size: 1.2rem;
   padding: 0 0.5rem 0 0.5rem;
