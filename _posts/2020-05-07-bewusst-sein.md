@@ -39,7 +39,7 @@ Nur hat das Ganze einen ziemlich grossen Haken. Die Wissenschaft will herausgefu
 
 So, und jetzt geht's aber erst richtig los. Wenn ich also mit dem bisschen bewussten Bewusstsein wenigstens erkennen kann, dass es noch viel mehr gibt, als das, was ich bewusst erkennen kann, dann ist eben genau dieses 5%-Quentchen des ganzen Bewusstseins deine Eintrittskarte zum Unterbewusstsein und damit zu den weiteren 95% von Allem was ist. Wow\!
 
-> Wow - was ist alles möglich\!
+> **Wow - was ist alles möglich\!**
 
 Einmal dort angekommen bist du nun da, wo du das bislang Unbewusste, welches so im Randomwalk einfach in dein, nach Aussen-hin-gelebtes-Bewusstsein getröpfelt ist. Jetzt, wo du dir dessen bewusst geworden bist, im Sein, ganz konkret, bewusst bist, kannst du nun dazu übergehen und gezielt das in dein bewusstes Leben ziehen, was du wirklich im diesseitigen Bewusstsein auch erleben möchtest. In der Informatik würde man sagen "Drag and Drop".
 
@@ -51,7 +51,7 @@ Wir machen das im ThetaHealingTM, wenn wir meditieren, über unser Paradigma hin
 
 So phantastisch es klingen mag, so einfach ist es dennoch. Dein Urvertrauen in die Schöpfung, dein Glaube an etwas viel Grösseres als dich, als die Menschheit, als unsere Galaxie, das Universum und all dies und noch viel mehr, verbunden mit einer Haltung, sich wieder seinem verborgenen Schatz "Werdet wie die Kinder" neu zu öffnen, zu erschliessen, seiner Intuition wieder bewusst-zu-sein ist ein grosser Teil deines Schlüssels dazu.
 
-**Es braucht aber noch mehr ... weg damit**
+**Es braucht aber noch mehr … weg damit**
 
 Wer aber sein "bewusstes" Leben zu einem guten Teil, lies eher schlechten Teil, in Angst, Ärger, Groll, Wut, Bedauern, Tratsch, Ablehnung, Trennung und Separation von allem was ist lebt, ist so damit beschäftigt, seine destruktiven Glaubensmuster zu bewahren, zu schützen und zu verteidigen, dass dieser Mensch nicht zum Bewusst-Sein kommen kann, bevor er nicht einen guten Teil seiner schlechten Angewohnheiten aufgegeben hat.
 
