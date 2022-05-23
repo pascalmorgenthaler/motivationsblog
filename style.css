@@ -333,12 +333,15 @@ p a:hover {
 }
 
 .button:hover {
-    color: var(--featured-text);
+    color: var(--dark);
 }
 
 .subtle-button {
   text-decoration: none;
   border-bottom: 1px solid;
+}
+.subtle-button:hover {
+  color: var(--dark);
 }
 
 .fa-brands {
@@ -346,6 +349,25 @@ p a:hover {
   padding: 0 0.5rem 0 0.5rem;
 }
 
+.fa-brands:hover {
+  color: var(--dark);
+}
+
+.fab:hover {
+  color: var(--dark);
+}
+
+.post-item.hover-light:hover {
+  color: var(--featured-text);
+}
+
+.button.hover-light:hover {
+  color: var(--featured-text);
+}
+
+.hover-dark:hover {
+  color: var(--dark)
+}
 /* suggested additional styles 
 - .button-inverted, .button-subtle, .button-lg  */
 
@@ -597,6 +619,14 @@ footer nav a {
 /* Post Loop Item  */
 
 .post-item {
+  text-decoration: none;
+}
+
+.post-item:hover {
+  color: var(--dark);
+}
+
+.post-item-blog-page {
   text-decoration: none;
 }
 

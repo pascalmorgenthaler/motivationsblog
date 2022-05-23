@@ -14,7 +14,7 @@ design:
   dark-text_color: 'rgb(60,60,65)'
   medium-text_color: 'rgb(90,90,95)'
   light-text_color: '#f7f5f3'
-  featured-text_color: 'rgb(160,160,160)'
+  featured-text_color: 'rgb(210,210,210)'
   dark_color: '#8f7464'
   medium_color: '#585563'
   light_color: '#5A2C0F'
