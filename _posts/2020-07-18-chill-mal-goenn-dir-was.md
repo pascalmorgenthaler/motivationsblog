@@ -31,15 +31,13 @@ _comments:
 
 Hattest du gerade ein gutes Gefühl, wenn du "Chill mal - Gönn dir was\!" gelesen hast? Ich bin mir sicher, 4 von 5 Menschen, haben ein Problem damit, oder wie es heute manchmal so schön heisst, einen Challenge, eine Herausforderung. Nun, die "Herausforderung" besteht für viele darin, dass sie zwar spontan sagen können, was sie sich jetzt gerade gerne gönnen würden. Gleichzeitig aber kommen die Selbstzweifel darüber, sich etwas zu gönnen, auf.
 
-![Ein Hund mit Sonnenbrille, der in einer Hängematte am geniessen ist.](/images/blog-post_images/blog-2020-07-18.jpg "Ein Hund am geniessen"){: width="1200" height="1600"}
+![Ein Hund mit Sonnenbrille, der in einer Hängematte am geniessen ist.](/images/blog-post_images/blog-2020-07-18.jpg "Ein Hund am geniessen"){: .float-left-image width="1200" height="1600"}**Pflicht und Kür**
 
-**Pflicht und Kür**
-
-Angenommen, du würdest heute Nachmittag spontan frei nehmen, weil du gerne einfach mal etwas nur für dich machen möchtest. Kannst du es tun? Will heissen, wenn du angestellt bist, gehst du zu deinem Vorgesetzten und fragst nach Urlaub? Oder gibst du dir die Antwort lieber gleich selber, dass es heute ja gar nicht geht, weil zu viel Arbeit da ist, ... ein Argument, dass du stets anführen kannst, denn, wäre es nicht so, weshalb solltest du denn dort angestellt bleiben können? Also, dieses Argument zählt nicht wirklich, hilft aber schon recht zuverlässig, deinen Wunsch als Traum zu behalten und dafür lieber fleissig, gehorsam und "wunschlos" weiter zu arbeiten. Hm, da könnte man auch noch Personalknappheit und und und anführen. Aber natürlich funktioniert das selbe Programm auch als Hausfrau und Mutter auf die selbe Weise. Die Wäsche, der Einkauf, das Haus sauber halten, die Kinder etc.
+Angenommen, du würdest heute Nachmittag spontan frei nehmen, weil du gerne einfach mal etwas nur für dich machen möchtest. Kannst du es tun? Will heissen, wenn du angestellt bist, gehst du zu deinem Vorgesetzten und fragst nach Urlaub? Oder gibst du dir die Antwort lieber gleich selber, dass es heute ja gar nicht geht, weil zu viel Arbeit da ist, … ein Argument, dass du stets anführen kannst, denn, wäre es nicht so, weshalb solltest du denn dort angestellt bleiben können? Also, dieses Argument zählt nicht wirklich, hilft aber schon recht zuverlässig, deinen Wunsch als Traum zu behalten und dafür lieber fleissig, gehorsam und "wunschlos" weiter zu arbeiten. Hm, da könnte man auch noch Personalknappheit und und und anführen. Aber natürlich funktioniert das selbe Programm auch als Hausfrau und Mutter auf die selbe Weise. Die Wäsche, der Einkauf, das Haus sauber halten, die Kinder etc.
 
 **Beliebig**
 
-Ja, diese Form der Listen sind beliebig verlängerbar. So, jetzt aber mal umgekehrt. Was sind die guten Gründe dafür, dir doch mal was zu gönnen? Äh, ja, nun also ... das ist jetzt so und ... was war die Frage? Ah ja, die guten Gründe, um sich was zu gönnen. Ich bin überzeugt, dass die Begründungen dagegen viel präsenter sind, als jene dafür.
+Ja, diese Form der Listen sind beliebig verlängerbar. So, jetzt aber mal umgekehrt. Was sind die guten Gründe dafür, dir doch mal was zu gönnen? Äh, ja, nun also … das ist jetzt so und … was war die Frage? Ah ja, die guten Gründe, um sich was zu gönnen. Ich bin überzeugt, dass die Begründungen dagegen viel präsenter sind, als jene dafür.
 
 **Wer bist du?**
 
@@ -59,4 +57,4 @@ Und jetzt ist es an der Zeit, dir wieder regelmässig was zu gönnen, was dir wi
 
 Wenn das unmöglich oder nur mit einem schlechten Gewissen überhaupt möglich sein sollte, dann ist es an der Zeit, die eigenen Überzeugungen näher anzuschauen. Woran halte ich fest? Was könnte ich loslassen? Was würde passieren, wenn ich für mich einstehe? Wann immer du bereit bist. Wir sind es.
 
-*Alfred *
+*Alfred*
