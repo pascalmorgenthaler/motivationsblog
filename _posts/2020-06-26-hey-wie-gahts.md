@@ -43,7 +43,7 @@ Nun ist es ja grundsätzlich okay, dass das Händeschütteln nicht mehr dringend
 
 Wann kann ich wirklich sagen, wie es mir geht? Wenn ich ein Vertrauensverhältnis zur fragenden Person habe. Wenn der Rahmen stimmt. Auf dem Perron von Gleis 7 am Zürcher Hauptbahnhof beispielsweise dürfte für die wenigsten Leute der richtige Ort dafür sein. Fassen wir zusammen. Für eine tiefgründige Antwort auf diese Allerweltsfrage müssen einige Bedingungen kumulativ erfüllt sein, damit etwas Gescheites dabei raus kommt.
 
-**Vom Sinnlosen **
+**Vom Sinnlosen**
 
 Was, wenn das "Hey, wie geht's?" einfach so dahergefragt wurde? Jeder von uns hat ein feines Sensorium, auch "Gspüri" genannt, und so wirst du sofort feststellen, ob dein vis-&agrave;-vis überhaupt an einer Auskunft interessiert ist, oder einfach nicht wusste, wie er das Gespräch anders hätte beginnen sollen.
 
@@ -69,4 +69,4 @@ Jetzt, wo sich schon so viel in kurzer Zeit geändert hat, sind wir in der Lage 
 
 Liebe Grüsse
 
-*Alfred *
+\*Alfred \*
