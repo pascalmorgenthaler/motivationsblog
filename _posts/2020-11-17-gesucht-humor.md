@@ -51,7 +51,7 @@ Heute ist es ja zum Allgemeingut geworden. Überhaupt scheint die Wirtschaft loc
 
 Wie dem auch sei. Auch in früheren Blog's habe ich es schon erwähnt. Unterstütze dein Immunsystem und da ist Humor, Lachen und Freude, wo immer du ihn erkennen und ausfindig machen kannst, die bessere Medizin, als eine der ständig vorhandenen bitteren Pillen, die dir die Massenmedien geradzu "&agrave; discretion" abgeben möchten.
 
-> **Also,** **entdecke****deinen** **Humor** **wieder** **oder** **neu** **oder** **erlaube****&nbsp; es** **dir,** **diesen****in** **deinem****Leben** **zu** **akzeptieren,** **zu zulassen.**
+> **Also,** **entdecke****deinen** **Humor** **wieder** **oder** **neu** **oder** **erlaube** **es** **dir,** **diesen****in** **deinem****Leben** **zu** **akzeptieren,** **zu zulassen.**
 
 Humorvolle Grüsse,
 
