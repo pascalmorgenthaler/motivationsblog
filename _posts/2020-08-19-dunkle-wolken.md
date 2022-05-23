@@ -34,9 +34,7 @@ _comments:
 
 "Wie sieht's denn aus heute?" Nein, ich meine nicht das, dass man aus dem Fenster schaut, um zu sehen, wie das Wetter ist. Dafür hat man heute doch eine mehrfarbige App mit allen möglichen nützlichen und auch weniger praktischen Zusatzinfos auf seinem Handy. Aus dem Fenster schauen ist doch altmodisch, oder "old school" wie man ab und zu hört, auch zu ganz anderen Themen.
 
-![](/images/blog-post_images/blog-2020-08-19.jpg){: width="1200" height="1500"}
-
-**Was?**
+![](/images/blog-post_images/blog-2020-08-19.jpg){: .float-left-image width="1200" height="1500"}**Was?**
 
 Das glaubst du nicht? Nun, dann fahr mal mit dem öV - übrigens gibt's das Phänomen schon lange vor Covid-19. Kaum jemand, der noch aus dem Fenster schaut, alle schauen auf den Bildschirm oder Screen ihrer verschiedenen Devices. Also von daher, könnte man im Bus und Zug etc. wohl wieder die mittelalterlichen Butzenscheiben einführen, die runden kleinen Glasfenster, die von Bleirahmen gehalten und zu einem grossen Fenster zusammengefügt wurden. Da hat man seine Umwelt auch nur verschwommen wahrnehmen können. Doch sei's drum.
 
@@ -46,7 +44,7 @@ Zurück zu den dunklen Wolken und damit zur Eingangsfrage: "Wie sieht's denn aus
 
 **Naiv oder was?**
 
-Nein nein, mit Naivität hat das nicht viel zu tun. Eher mit der persönlichen Entscheidung, wieviele dunkle Wolken du dir zumuten willst. Ist dir schon aufgefallen, dass die medialen dunklen Wolken manchmal monatelang konstant stehen bleiben? Sie werden manchmal grösser, manchmal kleiner und plötzlich kommt da eine vermeintlich noch dunklere Wolke und die hat die Eigenschaft, als erste ihrer Handlungen, die vorangegangene Wolke verschwinden zu lassen. Will heissen, nicht dass die Wolke damit verschwunden wäre, es wird einfach nicht mehr darüber gesprochen. Aha, ...
+Nein nein, mit Naivität hat das nicht viel zu tun. Eher mit der persönlichen Entscheidung, wieviele dunkle Wolken du dir zumuten willst. Ist dir schon aufgefallen, dass die medialen dunklen Wolken manchmal monatelang konstant stehen bleiben? Sie werden manchmal grösser, manchmal kleiner und plötzlich kommt da eine vermeintlich noch dunklere Wolke und die hat die Eigenschaft, als erste ihrer Handlungen, die vorangegangene Wolke verschwinden zu lassen. Will heissen, nicht dass die Wolke damit verschwunden wäre, es wird einfach nicht mehr darüber gesprochen. Aha, …
 
 **Das heisst nun was?**
 
