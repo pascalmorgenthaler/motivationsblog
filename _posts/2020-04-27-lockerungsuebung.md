@@ -50,6 +50,6 @@ Wer heute wieder zu seiner Arbeit zurückgekehrt ist, und trotz allfälliger Han
 
 In der Ruhe zu bleiben, und aus seiner Mitte heraus auf veränderte Umstände reagieren zu können, hilft enorm. Wenn du Unterstützung brauchst, wir sind für dich da, vor - während und auch nach Krisen.
 
-*Alfred *
+*Alfred*
 
 &nbsp;
