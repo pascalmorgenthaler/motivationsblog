@@ -7,7 +7,7 @@ description: >-
   Kompliment auch aus der Tradition unserer Schwyzertüütschen-Sprachkultur
   heraus!
 author: Alfred Schuler
-featured: true
+featured: false
 categories:
   - travel
   - life
