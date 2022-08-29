@@ -8,7 +8,7 @@ description: >-
   mancher Firma, macht sich diese Sehnsucht zu Nutze und setzt diese gekonnt in
   Wort, Bild und Ton um.
 author: Alfred Schuler
-featured: false
+featured: true
 categories:
   - travel
   - life
