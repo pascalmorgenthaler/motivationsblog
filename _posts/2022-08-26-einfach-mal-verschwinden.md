@@ -12,7 +12,7 @@ featured: false
 categories:
   - travel
   - life
-featured_image: /images/blog-post_images/blog-2020-04-19.jpg
+featured_image: /uploads/pablo-heimplatz-eavs-4kngrk-unsplash-1.jpg
 seo:
   title: Glücklich sein mal in Ruhe betrachtet
   description: Was bedeutet Glück? Was heisst es glücklich zu sein?
