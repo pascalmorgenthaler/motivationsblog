@@ -33,8 +33,6 @@ _comments:
 
 ![](/uploads/pablo-heimplatz-eavs-4kngrk-unsplash-1.jpg){: width="5000" height="3333"}
 
-&nbsp;
-
 Frage dich selbst: &laquo;Wie geht es mir, wie fühle ich mich?&raquo; Schau zuerst, wie es dir objektiv, aber auch subjektiv geht und dann ertaste die Gefühle dazu, die sich bei dir manifestieren. Schreib es gleich auf.
 
 Und, &laquo;wie zufrieden bin ich mit deinem Privatleben?&raquo; &laquo;Wie schaut es bei meinem Berufsleben aus?&raquo; Mal ehrlich, alles im Butter? Oder kommt da so eine Stimme im Kopf auf, die dir suggerieren will, dass du zufrieden sein MUSST? Dass du nichts zu ändern bräuchtest, weil überall etwas ist? Will heissen, nirgends wird es perfekt sein? Was willst du denn noch ändern in deinem Alter? Die ü50-Generation überfällt des Häufigeren der resignierende Gedanke, dass &laquo;man&raquo;, keine Ahnung wer &laquo;man&raquo; ist, &nbsp;mit über 50 Jahren, keine Stelle mehr bekomme und deshalb zufrieden auf seinem alten Posten ausharren soll, wie ein Wachsoldat vor seinem Wachhäuschen, der schon vor langer Zeit von diesem Posten hätte abgezogen werden sollen. Mit Verlaub: Diese, ähnliche und noch schlimmer gelagerte Gedanken sind natürlich kompletter Schwachsinn. Warum ich das weiss?
