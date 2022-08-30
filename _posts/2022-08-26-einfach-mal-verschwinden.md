@@ -14,8 +14,13 @@ categories:
   - life
 featured_image: /uploads/pablo-heimplatz-eavs-4kngrk-unsplash-1.jpg
 seo:
-  title: Glücklich sein mal in Ruhe betrachtet
-  description: Was bedeutet Glück? Was heisst es glücklich zu sein?
+  title: Einfach mal verschwinden
+  description: >-
+    Kennst du das? Einfach mal weg sein? Und Tschüss! Wie das auch immer heisst.
+    Nicht nur, dass das wohl eine tief im Menschen innenliegende Sehnsucht ist,
+    einfach mal … das Weite … zu suchen, nein, auch die Marketingschienen von so
+    mancher Firma, macht sich diese Sehnsucht zu Nutze und setzt diese gekonnt
+    in Wort, Bild und Ton um.
   social_image:
   twitter_card:
   keywords: selbstliebe, glück, lifecoach, motivation
