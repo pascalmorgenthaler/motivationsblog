@@ -30,17 +30,6 @@
 {% endif %}
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DSFC8CSNDJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-DSFC8CSNDJ');
-</script>
-
-
 <!------------  Social media sharing META Tags ------------>
 <meta property="og:title" content="{{ page.title | default: site.data.site-settings.seo.title }}">
 <meta property="og:description" content="{{ page.seo.description | default: site.data.site-settings.seo.description }}"> 
